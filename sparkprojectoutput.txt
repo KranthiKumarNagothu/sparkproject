@@ -1,0 +1,1107 @@
+"C:\Program Files\Java\jdk1.8.0_251\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3.2\lib\idea_rt.jar=54815:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3.2\bin" -Dfile.encoding=UTF-8 -classpath "C:\Program Files\Java\jdk1.8.0_251\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_251\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_251\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_251\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_251\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_251\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_251\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_251\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_251\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_251\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_251\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_251\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_251\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_251\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_251\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_251\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_251\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_251\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_251\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_251\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_251\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_251\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_251\jre\lib\rt.jar;C:\JavaDemo\Scala\myproject\target\scala-2.12\classes;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\com\clearspring\analytics\stream\2.9.6\stream-2.9.6.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\com\datastax\oss\java-driver-core-shaded\4.13.0\java-driver-core-shaded-4.13.0.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\com\datastax\oss\java-driver-mapper-runtime\4.13.0\java-driver-mapper-runtime-4.13.0.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\com\datastax\oss\java-driver-query-builder\4.13.0\java-driver-query-builder-4.13.0.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\com\datastax\oss\java-driver-shaded-guava\25.1-jre-graal-sub-1\java-driver-shaded-guava-25.1-jre-graal-sub-1.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\com\datastax\oss\native-protocol\1.5.0\native-protocol-1.5.0.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\com\datastax\spark\spark-cassandra-connector-driver_2.12\3.2.0\spark-cassandra-connector-driver_2.12-3.2.0.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\com\datastax\spark\spark-cassandra-connector_2.12\3.2.0\spark-cassandra-connector_2.12-3.2.0.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\com\esotericsoftware\kryo-shaded\4.0.2\kryo-shaded-4.0.2.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\com\esotericsoftware\minlog\1.3.0\minlog-1.3.0.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\com\fasterxml\jackson\core\jackson-annotations\2.12.3\jackson-annotations-2.12.3.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\com\fasterxml\jackson\core\jackson-core\2.12.3\jackson-core-2.12.3.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\com\fasterxml\jackson\core\jackson-databind\2.12.3\jackson-databind-2.12.3.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\com\fasterxml\jackson\module\jackson-module-scala_2.12\2.12.3\jackson-module-scala_2.12-2.12.3.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\com\github\luben\zstd-jni\1.5.0-4\zstd-jni-1.5.0-4.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\com\github\spotbugs\spotbugs-annotations\3.1.12\spotbugs-annotations-3.1.12.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\com\github\stephenc\jcip\jcip-annotations\1.0-1\jcip-annotations-1.0-1.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\com\google\code\gson\gson\2.8.6\gson-2.8.6.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\com\google\crypto\tink\tink\1.6.0\tink-1.6.0.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\com\google\flatbuffers\flatbuffers-java\1.9.0\flatbuffers-java-1.9.0.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\com\google\guava\guava\16.0.1\guava-16.0.1.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\com\google\protobuf\protobuf-java\3.14.0\protobuf-java-3.14.0.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\com\ning\compress-lzf\1.0.3\compress-lzf-1.0.3.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\com\thoughtworks\paranamer\paranamer\2.8\paranamer-2.8.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\com\twitter\chill-java\0.10.0\chill-java-0.10.0.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\com\twitter\chill_2.12\0.10.0\chill_2.12-0.10.0.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\com\typesafe\config\1.4.1\config-1.4.1.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\com\univocity\univocity-parsers\2.9.1\univocity-parsers-2.9.1.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\commons-io\commons-io\2.8.0\commons-io-2.8.0.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\commons-lang\commons-lang\2.6\commons-lang-2.6.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\commons-net\commons-net\3.1\commons-net-3.1.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\io\airlift\aircompressor\0.21\aircompressor-0.21.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\io\dropwizard\metrics\metrics-core\4.2.0\metrics-core-4.2.0.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\io\dropwizard\metrics\metrics-graphite\4.2.0\metrics-graphite-4.2.0.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\io\dropwizard\metrics\metrics-jmx\4.2.0\metrics-jmx-4.2.0.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\io\dropwizard\metrics\metrics-json\4.2.0\metrics-json-4.2.0.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\io\dropwizard\metrics\metrics-jvm\4.2.0\metrics-jvm-4.2.0.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\io\netty\netty-all\4.1.68.Final\netty-all-4.1.68.Final.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\io\netty\netty-buffer\4.1.50.Final\netty-buffer-4.1.50.Final.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\io\netty\netty-codec\4.1.50.Final\netty-codec-4.1.50.Final.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\io\netty\netty-common\4.1.50.Final\netty-common-4.1.50.Final.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\io\netty\netty-handler\4.1.50.Final\netty-handler-4.1.50.Final.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\io\netty\netty-resolver\4.1.50.Final\netty-resolver-4.1.50.Final.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\io\netty\netty-transport-native-epoll\4.1.50.Final\netty-transport-native-epoll-4.1.50.Final.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\io\netty\netty-transport-native-unix-common\4.1.50.Final\netty-transport-native-unix-common-4.1.50.Final.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\io\netty\netty-transport\4.1.50.Final\netty-transport-4.1.50.Final.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\jakarta\annotation\jakarta.annotation-api\1.3.5\jakarta.annotation-api-1.3.5.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\jakarta\servlet\jakarta.servlet-api\4.0.3\jakarta.servlet-api-4.0.3.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\jakarta\validation\jakarta.validation-api\2.0.2\jakarta.validation-api-2.0.2.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\jakarta\ws\rs\jakarta.ws.rs-api\2.1.6\jakarta.ws.rs-api-2.1.6.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\javax\activation\activation\1.1.1\activation-1.1.1.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\javax\annotation\javax.annotation-api\1.3.2\javax.annotation-api-1.3.2.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\javax\xml\bind\jaxb-api\2.2.11\jaxb-api-2.2.11.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\joda-time\joda-time\2.10.13\joda-time-2.10.13.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\log4j\log4j\1.2.17\log4j-1.2.17.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\net\razorvine\pyrolite\4.30\pyrolite-4.30.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\net\sf\py4j\py4j\0.10.9.5\py4j-0.10.9.5.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\antlr\antlr4-runtime\4.8\antlr4-runtime-4.8.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\arrow\arrow-format\2.0.0\arrow-format-2.0.0.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\arrow\arrow-memory-core\2.0.0\arrow-memory-core-2.0.0.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\arrow\arrow-memory-netty\2.0.0\arrow-memory-netty-2.0.0.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\arrow\arrow-vector\2.0.0\arrow-vector-2.0.0.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\avro\avro-ipc\1.10.2\avro-ipc-1.10.2.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\avro\avro-mapred\1.10.2\avro-mapred-1.10.2.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\avro\avro\1.10.2\avro-1.10.2.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\commons\commons-compress\1.20\commons-compress-1.20.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\commons\commons-crypto\1.1.0\commons-crypto-1.1.0.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\commons\commons-math3\3.4.1\commons-math3-3.4.1.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\commons\commons-pool2\2.6.2\commons-pool2-2.6.2.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\commons\commons-text\1.10.0\commons-text-1.10.0.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\curator\curator-client\2.13.0\curator-client-2.13.0.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\curator\curator-framework\2.13.0\curator-framework-2.13.0.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\curator\curator-recipes\2.13.0\curator-recipes-2.13.0.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\hadoop\hadoop-client-api\3.3.1\hadoop-client-api-3.3.1.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\hadoop\hadoop-client-runtime\3.3.1\hadoop-client-runtime-3.3.1.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\hive\hive-storage-api\2.7.2\hive-storage-api-2.7.2.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\htrace\htrace-core4\4.1.0-incubating\htrace-core4-4.1.0-incubating.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\ivy\ivy\2.5.0\ivy-2.5.0.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\kafka\kafka-clients\2.8.1\kafka-clients-2.8.1.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\orc\orc-core\1.6.14\orc-core-1.6.14.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\orc\orc-mapreduce\1.6.14\orc-mapreduce-1.6.14.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\orc\orc-shims\1.6.14\orc-shims-1.6.14.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\parquet\parquet-column\1.12.2\parquet-column-1.12.2.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\parquet\parquet-common\1.12.2\parquet-common-1.12.2.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\parquet\parquet-encoding\1.12.2\parquet-encoding-1.12.2.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\parquet\parquet-format-structures\1.12.2\parquet-format-structures-1.12.2.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\parquet\parquet-hadoop\1.12.2\parquet-hadoop-1.12.2.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\parquet\parquet-jackson\1.12.2\parquet-jackson-1.12.2.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\spark\spark-catalyst_2.12\3.2.3\spark-catalyst_2.12-3.2.3.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\spark\spark-core_2.12\3.2.3\spark-core_2.12-3.2.3.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\spark\spark-kvstore_2.12\3.2.3\spark-kvstore_2.12-3.2.3.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\spark\spark-launcher_2.12\3.2.3\spark-launcher_2.12-3.2.3.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\spark\spark-network-common_2.12\3.2.3\spark-network-common_2.12-3.2.3.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\spark\spark-network-shuffle_2.12\3.2.3\spark-network-shuffle_2.12-3.2.3.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\spark\spark-sketch_2.12\3.2.3\spark-sketch_2.12-3.2.3.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\spark\spark-sql-kafka-0-10_2.12\3.2.3\spark-sql-kafka-0-10_2.12-3.2.3.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\spark\spark-sql_2.12\3.2.3\spark-sql_2.12-3.2.3.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\spark\spark-tags_2.12\3.2.3\spark-tags_2.12-3.2.3.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\spark\spark-token-provider-kafka-0-10_2.12\3.2.3\spark-token-provider-kafka-0-10_2.12-3.2.3.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\spark\spark-unsafe_2.12\3.2.3\spark-unsafe_2.12-3.2.3.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\xbean\xbean-asm9-shaded\4.20\xbean-asm9-shaded-4.20.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\yetus\audience-annotations\0.12.0\audience-annotations-0.12.0.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\zookeeper\zookeeper-jute\3.6.2\zookeeper-jute-3.6.2.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\zookeeper\zookeeper\3.6.2\zookeeper-3.6.2.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\codehaus\janino\commons-compiler\3.0.16\commons-compiler-3.0.16.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\codehaus\janino\janino\3.0.16\janino-3.0.16.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\fusesource\leveldbjni\leveldbjni-all\1.8\leveldbjni-all-1.8.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\glassfish\hk2\external\aopalliance-repackaged\2.6.1\aopalliance-repackaged-2.6.1.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\glassfish\hk2\external\jakarta.inject\2.6.1\jakarta.inject-2.6.1.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\glassfish\hk2\hk2-api\2.6.1\hk2-api-2.6.1.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\glassfish\hk2\hk2-locator\2.6.1\hk2-locator-2.6.1.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\glassfish\hk2\hk2-utils\2.6.1\hk2-utils-2.6.1.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\glassfish\hk2\osgi-resource-locator\1.0.3\osgi-resource-locator-1.0.3.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\glassfish\jersey\containers\jersey-container-servlet-core\2.34\jersey-container-servlet-core-2.34.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\glassfish\jersey\containers\jersey-container-servlet\2.34\jersey-container-servlet-2.34.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\glassfish\jersey\core\jersey-client\2.34\jersey-client-2.34.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\glassfish\jersey\core\jersey-common\2.34\jersey-common-2.34.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\glassfish\jersey\core\jersey-server\2.34\jersey-server-2.34.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\glassfish\jersey\inject\jersey-hk2\2.34\jersey-hk2-2.34.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\hdrhistogram\HdrHistogram\2.1.12\HdrHistogram-2.1.12.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\javassist\javassist\3.25.0-GA\javassist-3.25.0-GA.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\jetbrains\annotations\17.0.0\annotations-17.0.0.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\json4s\json4s-ast_2.12\3.7.0-M11\json4s-ast_2.12-3.7.0-M11.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\json4s\json4s-core_2.12\3.7.0-M11\json4s-core_2.12-3.7.0-M11.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\json4s\json4s-jackson_2.12\3.7.0-M11\json4s-jackson_2.12-3.7.0-M11.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\json4s\json4s-scalap_2.12\3.7.0-M11\json4s-scalap_2.12-3.7.0-M11.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\lz4\lz4-java\1.7.1\lz4-java-1.7.1.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\objenesis\objenesis\2.5.1\objenesis-2.5.1.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\reactivestreams\reactive-streams\1.0.3\reactive-streams-1.0.3.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\roaringbitmap\RoaringBitmap\0.9.0\RoaringBitmap-0.9.0.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\roaringbitmap\shims\0.9.0\shims-0.9.0.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\rocksdb\rocksdbjni\6.20.3\rocksdbjni-6.20.3.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\modules\scala-parser-combinators_2.12\1.1.2\scala-parser-combinators_2.12-1.1.2.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\modules\scala-xml_2.12\1.2.0\scala-xml_2.12-1.2.0.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.12.15\scala-library-2.12.15.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-reflect\2.12.15\scala-reflect-2.12.15.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\slf4j\jcl-over-slf4j\1.7.30\jcl-over-slf4j-1.7.30.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\slf4j\jul-to-slf4j\1.7.30\jul-to-slf4j-1.7.30.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\slf4j\slf4j-api\1.7.30\slf4j-api-1.7.30.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\slf4j\slf4j-log4j12\1.7.30\slf4j-log4j12-1.7.30.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\spark-project\spark\unused\1.0.0\unused-1.0.0.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\threeten\threeten-extra\1.5.0\threeten-extra-1.5.0.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\tukaani\xz\1.8\xz-1.8.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\xerial\snappy\snappy-java\1.1.8.4\snappy-java-1.1.8.4.jar;C:\Users\Kranthi Chowdary\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\oro\oro\2.0.8\oro-2.0.8.jar" com.demo.dataenggpoc.SparkAssignment3
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+23/06/17 12:09:43 INFO SparkContext: Running Spark version 3.2.3
+23/06/17 12:09:44 INFO ResourceUtils: ==============================================================
+23/06/17 12:09:44 INFO ResourceUtils: No custom resources configured for spark.driver.
+23/06/17 12:09:44 INFO ResourceUtils: ==============================================================
+23/06/17 12:09:44 INFO SparkContext: Submitted application: Assignment3
+23/06/17 12:09:44 INFO ResourceProfile: Default ResourceProfile created, executor resources: Map(cores -> name: cores, amount: 1, script: , vendor: , memory -> name: memory, amount: 1024, script: , vendor: , offHeap -> name: offHeap, amount: 0, script: , vendor: ), task resources: Map(cpus -> name: cpus, amount: 1.0)
+23/06/17 12:09:44 INFO ResourceProfile: Limiting resource is cpu
+23/06/17 12:09:44 INFO ResourceProfileManager: Added ResourceProfile id: 0
+23/06/17 12:09:44 INFO SecurityManager: Changing view acls to: Kranthi Chowdary
+23/06/17 12:09:44 INFO SecurityManager: Changing modify acls to: Kranthi Chowdary
+23/06/17 12:09:44 INFO SecurityManager: Changing view acls groups to: 
+23/06/17 12:09:44 INFO SecurityManager: Changing modify acls groups to: 
+23/06/17 12:09:44 INFO SecurityManager: SecurityManager: authentication disabled; ui acls disabled; users  with view permissions: Set(Kranthi Chowdary); groups with view permissions: Set(); users  with modify permissions: Set(Kranthi Chowdary); groups with modify permissions: Set()
+23/06/17 12:09:46 INFO Utils: Successfully started service 'sparkDriver' on port 54824.
+23/06/17 12:09:46 INFO SparkEnv: Registering MapOutputTracker
+23/06/17 12:09:46 INFO SparkEnv: Registering BlockManagerMaster
+23/06/17 12:09:46 INFO BlockManagerMasterEndpoint: Using org.apache.spark.storage.DefaultTopologyMapper for getting topology information
+23/06/17 12:09:46 INFO BlockManagerMasterEndpoint: BlockManagerMasterEndpoint up
+23/06/17 12:09:46 INFO SparkEnv: Registering BlockManagerMasterHeartbeat
+23/06/17 12:09:46 INFO DiskBlockManager: Created local directory at C:\Users\Kranthi Chowdary\AppData\Local\Temp\blockmgr-fd69b10d-e583-4975-9082-e8f5e037fd1b
+23/06/17 12:09:47 INFO MemoryStore: MemoryStore started with capacity 767.4 MiB
+23/06/17 12:09:47 INFO SparkEnv: Registering OutputCommitCoordinator
+23/06/17 12:09:47 INFO Utils: Successfully started service 'SparkUI' on port 4040.
+23/06/17 12:09:47 INFO SparkUI: Bound SparkUI to 0.0.0.0, and started at http://LAPTOP-CRNI3FFE:4040
+23/06/17 12:09:48 INFO Executor: Starting executor ID driver on host LAPTOP-CRNI3FFE
+23/06/17 12:09:48 INFO Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 54839.
+23/06/17 12:09:48 INFO NettyBlockTransferService: Server created on LAPTOP-CRNI3FFE:54839
+23/06/17 12:09:48 INFO BlockManager: Using org.apache.spark.storage.RandomBlockReplicationPolicy for block replication policy
+23/06/17 12:09:48 INFO BlockManagerMaster: Registering BlockManager BlockManagerId(driver, LAPTOP-CRNI3FFE, 54839, None)
+23/06/17 12:09:48 INFO BlockManagerMasterEndpoint: Registering block manager LAPTOP-CRNI3FFE:54839 with 767.4 MiB RAM, BlockManagerId(driver, LAPTOP-CRNI3FFE, 54839, None)
+23/06/17 12:09:48 INFO BlockManagerMaster: Registered BlockManager BlockManagerId(driver, LAPTOP-CRNI3FFE, 54839, None)
+23/06/17 12:09:48 INFO BlockManager: Initialized BlockManager: BlockManagerId(driver, LAPTOP-CRNI3FFE, 54839, None)
+23/06/17 12:09:49 INFO SharedState: Setting hive.metastore.warehouse.dir ('null') to the value of spark.sql.warehouse.dir.
+23/06/17 12:09:49 INFO SharedState: Warehouse path is 'file:/C:/JavaDemo/Scala/myproject/spark-warehouse'.
+23/06/17 12:09:51 INFO InMemoryFileIndex: It took 72 ms to list leaf files for 1 paths.
+23/06/17 12:09:51 INFO InMemoryFileIndex: It took 4 ms to list leaf files for 1 paths.
+23/06/17 12:09:57 INFO FileSourceStrategy: Pushed Filters: 
+23/06/17 12:09:57 INFO FileSourceStrategy: Post-Scan Filters: (length(trim(value#0, None)) > 0)
+23/06/17 12:09:57 INFO FileSourceStrategy: Output Data Schema: struct<value: string>
+23/06/17 12:09:58 INFO CodeGenerator: Code generated in 525.5726 ms
+23/06/17 12:09:58 INFO MemoryStore: Block broadcast_0 stored as values in memory (estimated size 337.4 KiB, free 767.1 MiB)
+23/06/17 12:09:58 INFO MemoryStore: Block broadcast_0_piece0 stored as bytes in memory (estimated size 32.4 KiB, free 767.0 MiB)
+23/06/17 12:09:58 INFO BlockManagerInfo: Added broadcast_0_piece0 in memory on LAPTOP-CRNI3FFE:54839 (size: 32.4 KiB, free: 767.4 MiB)
+23/06/17 12:09:58 INFO SparkContext: Created broadcast 0 from csv at SparkAssignment3.scala:18
+23/06/17 12:09:58 INFO FileSourceScanExec: Planning scan with bin packing, max size: 7945610 bytes, open cost is considered as scanning 4194304 bytes.
+23/06/17 12:09:58 INFO SparkContext: Starting job: csv at SparkAssignment3.scala:18
+23/06/17 12:09:59 INFO DAGScheduler: Got job 0 (csv at SparkAssignment3.scala:18) with 1 output partitions
+23/06/17 12:09:59 INFO DAGScheduler: Final stage: ResultStage 0 (csv at SparkAssignment3.scala:18)
+23/06/17 12:09:59 INFO DAGScheduler: Parents of final stage: List()
+23/06/17 12:09:59 INFO DAGScheduler: Missing parents: List()
+23/06/17 12:09:59 INFO DAGScheduler: Submitting ResultStage 0 (MapPartitionsRDD[3] at csv at SparkAssignment3.scala:18), which has no missing parents
+23/06/17 12:09:59 INFO MemoryStore: Block broadcast_1 stored as values in memory (estimated size 11.6 KiB, free 767.0 MiB)
+23/06/17 12:09:59 INFO MemoryStore: Block broadcast_1_piece0 stored as bytes in memory (estimated size 5.8 KiB, free 767.0 MiB)
+23/06/17 12:09:59 INFO BlockManagerInfo: Added broadcast_1_piece0 in memory on LAPTOP-CRNI3FFE:54839 (size: 5.8 KiB, free: 767.4 MiB)
+23/06/17 12:09:59 INFO SparkContext: Created broadcast 1 from broadcast at DAGScheduler.scala:1478
+23/06/17 12:09:59 INFO DAGScheduler: Submitting 1 missing tasks from ResultStage 0 (MapPartitionsRDD[3] at csv at SparkAssignment3.scala:18) (first 15 tasks are for partitions Vector(0))
+23/06/17 12:09:59 INFO TaskSchedulerImpl: Adding task set 0.0 with 1 tasks resource profile 0
+23/06/17 12:09:59 INFO TaskSetManager: Starting task 0.0 in stage 0.0 (TID 0) (LAPTOP-CRNI3FFE, executor driver, partition 0, PROCESS_LOCAL, 4875 bytes) taskResourceAssignments Map()
+23/06/17 12:09:59 INFO Executor: Running task 0.0 in stage 0.0 (TID 0)
+23/06/17 12:10:00 INFO FileScanRDD: Reading File path: file:///C:/JavaDemo/Scala/myproject/input/data.csv, range: 0-3751306, partition values: [empty row]
+23/06/17 12:10:00 INFO CodeGenerator: Code generated in 28.387 ms
+23/06/17 12:10:00 INFO Executor: Finished task 0.0 in stage 0.0 (TID 0). 1585 bytes result sent to driver
+23/06/17 12:10:00 INFO TaskSetManager: Finished task 0.0 in stage 0.0 (TID 0) in 888 ms on LAPTOP-CRNI3FFE (executor driver) (1/1)
+23/06/17 12:10:00 INFO TaskSchedulerImpl: Removed TaskSet 0.0, whose tasks have all completed, from pool 
+23/06/17 12:10:00 INFO DAGScheduler: ResultStage 0 (csv at SparkAssignment3.scala:18) finished in 1.265 s
+23/06/17 12:10:00 INFO DAGScheduler: Job 0 is finished. Cancelling potential speculative or zombie tasks for this job
+23/06/17 12:10:00 INFO TaskSchedulerImpl: Killing all running tasks in stage 0: Stage finished
+23/06/17 12:10:00 INFO DAGScheduler: Job 0 finished: csv at SparkAssignment3.scala:18, took 1.362439 s
+23/06/17 12:10:00 INFO CodeGenerator: Code generated in 23.0612 ms
+23/06/17 12:10:00 INFO FileSourceStrategy: Pushed Filters: 
+23/06/17 12:10:00 INFO FileSourceStrategy: Post-Scan Filters: 
+23/06/17 12:10:00 INFO FileSourceStrategy: Output Data Schema: struct<value: string>
+23/06/17 12:10:00 INFO MemoryStore: Block broadcast_2 stored as values in memory (estimated size 337.4 KiB, free 766.7 MiB)
+23/06/17 12:10:00 INFO MemoryStore: Block broadcast_2_piece0 stored as bytes in memory (estimated size 32.4 KiB, free 766.7 MiB)
+23/06/17 12:10:00 INFO BlockManagerInfo: Added broadcast_2_piece0 in memory on LAPTOP-CRNI3FFE:54839 (size: 32.4 KiB, free: 767.3 MiB)
+23/06/17 12:10:00 WARN ProcfsMetricsGetter: Exception when trying to compute pagesize, as a result reporting of ProcessTree metrics is stopped
+23/06/17 12:10:00 INFO SparkContext: Created broadcast 2 from csv at SparkAssignment3.scala:18
+23/06/17 12:10:00 INFO FileSourceScanExec: Planning scan with bin packing, max size: 7945610 bytes, open cost is considered as scanning 4194304 bytes.
+23/06/17 12:10:00 INFO FileSourceStrategy: Pushed Filters: 
+23/06/17 12:10:00 INFO FileSourceStrategy: Post-Scan Filters: 
+23/06/17 12:10:00 INFO FileSourceStrategy: Output Data Schema: struct<age: string, job: string, marital: string, education: string, default: string ... 15 more fields>
+23/06/17 12:10:00 INFO MemoryStore: Block broadcast_3 stored as values in memory (estimated size 337.3 KiB, free 766.3 MiB)
+23/06/17 12:10:00 INFO MemoryStore: Block broadcast_3_piece0 stored as bytes in memory (estimated size 32.4 KiB, free 766.3 MiB)
+23/06/17 12:10:00 INFO BlockManagerInfo: Added broadcast_3_piece0 in memory on LAPTOP-CRNI3FFE:54839 (size: 32.4 KiB, free: 767.3 MiB)
+23/06/17 12:10:00 INFO SparkContext: Created broadcast 3 from show at SparkAssignment3.scala:19
+23/06/17 12:10:00 INFO FileSourceScanExec: Planning scan with bin packing, max size: 7945610 bytes, open cost is considered as scanning 4194304 bytes.
+23/06/17 12:10:00 INFO SparkContext: Starting job: show at SparkAssignment3.scala:19
+23/06/17 12:10:00 INFO DAGScheduler: Got job 1 (show at SparkAssignment3.scala:19) with 1 output partitions
+23/06/17 12:10:00 INFO DAGScheduler: Final stage: ResultStage 1 (show at SparkAssignment3.scala:19)
+23/06/17 12:10:00 INFO DAGScheduler: Parents of final stage: List()
+23/06/17 12:10:00 INFO DAGScheduler: Missing parents: List()
+23/06/17 12:10:00 INFO DAGScheduler: Submitting ResultStage 1 (MapPartitionsRDD[12] at show at SparkAssignment3.scala:19), which has no missing parents
+23/06/17 12:10:00 INFO MemoryStore: Block broadcast_4 stored as values in memory (estimated size 11.5 KiB, free 766.3 MiB)
+23/06/17 12:10:00 INFO MemoryStore: Block broadcast_4_piece0 stored as bytes in memory (estimated size 6.1 KiB, free 766.3 MiB)
+23/06/17 12:10:00 INFO BlockManagerInfo: Added broadcast_4_piece0 in memory on LAPTOP-CRNI3FFE:54839 (size: 6.1 KiB, free: 767.3 MiB)
+23/06/17 12:10:00 INFO SparkContext: Created broadcast 4 from broadcast at DAGScheduler.scala:1478
+23/06/17 12:10:00 INFO DAGScheduler: Submitting 1 missing tasks from ResultStage 1 (MapPartitionsRDD[12] at show at SparkAssignment3.scala:19) (first 15 tasks are for partitions Vector(0))
+23/06/17 12:10:00 INFO TaskSchedulerImpl: Adding task set 1.0 with 1 tasks resource profile 0
+23/06/17 12:10:00 INFO TaskSetManager: Starting task 0.0 in stage 1.0 (TID 1) (LAPTOP-CRNI3FFE, executor driver, partition 0, PROCESS_LOCAL, 4875 bytes) taskResourceAssignments Map()
+23/06/17 12:10:00 INFO Executor: Running task 0.0 in stage 1.0 (TID 1)
+23/06/17 12:10:00 INFO FileScanRDD: Reading File path: file:///C:/JavaDemo/Scala/myproject/input/data.csv, range: 0-3751306, partition values: [empty row]
+23/06/17 12:10:01 INFO CodeGenerator: Code generated in 61.1199 ms
+23/06/17 12:10:01 INFO Executor: Finished task 0.0 in stage 1.0 (TID 1). 3406 bytes result sent to driver
+23/06/17 12:10:01 INFO TaskSetManager: Finished task 0.0 in stage 1.0 (TID 1) in 274 ms on LAPTOP-CRNI3FFE (executor driver) (1/1)
+23/06/17 12:10:01 INFO TaskSchedulerImpl: Removed TaskSet 1.0, whose tasks have all completed, from pool 
+23/06/17 12:10:01 INFO DAGScheduler: ResultStage 1 (show at SparkAssignment3.scala:19) finished in 0.321 s
+23/06/17 12:10:01 INFO DAGScheduler: Job 1 is finished. Cancelling potential speculative or zombie tasks for this job
+23/06/17 12:10:01 INFO TaskSchedulerImpl: Killing all running tasks in stage 1: Stage finished
+23/06/17 12:10:01 INFO DAGScheduler: Job 1 finished: show at SparkAssignment3.scala:19, took 0.333793 s
+23/06/17 12:10:01 INFO CodeGenerator: Code generated in 74.5521 ms
++---+------------+--------+---------+-------+-------+-------+----+-------+---+-----+--------+--------+-----+--------+--------+---+
+|age|         job| marital|education|default|balance|housing|loan|contact|day|month|duration|campaign|pdays|previous|poutcome|  y|
++---+------------+--------+---------+-------+-------+-------+----+-------+---+-----+--------+--------+-----+--------+--------+---+
+| 58|  management| married| tertiary|     no|   2143|    yes|  no|unknown|  5|  may|     261|       1|   -1|       0| unknown| no|
+| 44|  technician|  single|secondary|     no|     29|    yes|  no|unknown|  5|  may|     151|       1|   -1|       0| unknown| no|
+| 33|entrepreneur| married|secondary|     no|      2|    yes| yes|unknown|  5|  may|      76|       1|   -1|       0| unknown| no|
+| 47| blue-collar| married|  unknown|     no|   1506|    yes|  no|unknown|  5|  may|      92|       1|   -1|       0| unknown| no|
+| 33|     unknown|  single|  unknown|     no|      1|     no|  no|unknown|  5|  may|     198|       1|   -1|       0| unknown| no|
+| 35|  management| married| tertiary|     no|    231|    yes|  no|unknown|  5|  may|     139|       1|   -1|       0| unknown| no|
+| 28|  management|  single| tertiary|     no|    447|    yes| yes|unknown|  5|  may|     217|       1|   -1|       0| unknown| no|
+| 42|entrepreneur|divorced| tertiary|    yes|      2|    yes|  no|unknown|  5|  may|     380|       1|   -1|       0| unknown| no|
+| 58|     retired| married|  primary|     no|    121|    yes|  no|unknown|  5|  may|      50|       1|   -1|       0| unknown| no|
+| 43|  technician|  single|secondary|     no|    593|    yes|  no|unknown|  5|  may|      55|       1|   -1|       0| unknown| no|
+| 41|      admin.|divorced|secondary|     no|    270|    yes|  no|unknown|  5|  may|     222|       1|   -1|       0| unknown| no|
+| 29|      admin.|  single|secondary|     no|    390|    yes|  no|unknown|  5|  may|     137|       1|   -1|       0| unknown| no|
+| 53|  technician| married|secondary|     no|      6|    yes|  no|unknown|  5|  may|     517|       1|   -1|       0| unknown| no|
+| 58|  technician| married|  unknown|     no|     71|    yes|  no|unknown|  5|  may|      71|       1|   -1|       0| unknown| no|
+| 57|    services| married|secondary|     no|    162|    yes|  no|unknown|  5|  may|     174|       1|   -1|       0| unknown| no|
+| 51|     retired| married|  primary|     no|    229|    yes|  no|unknown|  5|  may|     353|       1|   -1|       0| unknown| no|
+| 45|      admin.|  single|  unknown|     no|     13|    yes|  no|unknown|  5|  may|      98|       1|   -1|       0| unknown| no|
+| 57| blue-collar| married|  primary|     no|     52|    yes|  no|unknown|  5|  may|      38|       1|   -1|       0| unknown| no|
+| 60|     retired| married|  primary|     no|     60|    yes|  no|unknown|  5|  may|     219|       1|   -1|       0| unknown| no|
+| 33|    services| married|secondary|     no|      0|    yes|  no|unknown|  5|  may|      54|       1|   -1|       0| unknown| no|
++---+------------+--------+---------+-------+-------+-------+----+-------+---+-----+--------+--------+-----+--------+--------+---+
+only showing top 20 rows
+
+23/06/17 12:10:01 INFO FileSourceStrategy: Pushed Filters: IsNotNull(poutcome),EqualTo(poutcome,success)
+23/06/17 12:10:01 INFO FileSourceStrategy: Post-Scan Filters: isnotnull(poutcome#31),(poutcome#31 = success)
+23/06/17 12:10:01 INFO FileSourceStrategy: Output Data Schema: struct<poutcome: string>
+23/06/17 12:10:02 INFO CodeGenerator: Code generated in 29.4798 ms
+23/06/17 12:10:02 INFO MemoryStore: Block broadcast_5 stored as values in memory (estimated size 337.3 KiB, free 766.0 MiB)
+23/06/17 12:10:02 INFO MemoryStore: Block broadcast_5_piece0 stored as bytes in memory (estimated size 32.4 KiB, free 765.9 MiB)
+23/06/17 12:10:02 INFO BlockManagerInfo: Added broadcast_5_piece0 in memory on LAPTOP-CRNI3FFE:54839 (size: 32.4 KiB, free: 767.3 MiB)
+23/06/17 12:10:02 INFO SparkContext: Created broadcast 5 from show at SparkAssignment3.scala:27
+23/06/17 12:10:02 INFO FileSourceScanExec: Planning scan with bin packing, max size: 7945610 bytes, open cost is considered as scanning 4194304 bytes.
+23/06/17 12:10:02 INFO DAGScheduler: Registering RDD 16 (show at SparkAssignment3.scala:27) as input to shuffle 0
+23/06/17 12:10:02 INFO DAGScheduler: Got map stage job 2 (show at SparkAssignment3.scala:27) with 1 output partitions
+23/06/17 12:10:02 INFO DAGScheduler: Final stage: ShuffleMapStage 2 (show at SparkAssignment3.scala:27)
+23/06/17 12:10:02 INFO DAGScheduler: Parents of final stage: List()
+23/06/17 12:10:02 INFO DAGScheduler: Missing parents: List()
+23/06/17 12:10:02 INFO DAGScheduler: Submitting ShuffleMapStage 2 (MapPartitionsRDD[16] at show at SparkAssignment3.scala:27), which has no missing parents
+23/06/17 12:10:02 INFO MemoryStore: Block broadcast_6 stored as values in memory (estimated size 17.1 KiB, free 765.9 MiB)
+23/06/17 12:10:02 INFO MemoryStore: Block broadcast_6_piece0 stored as bytes in memory (estimated size 8.6 KiB, free 765.9 MiB)
+23/06/17 12:10:02 INFO BlockManagerInfo: Added broadcast_6_piece0 in memory on LAPTOP-CRNI3FFE:54839 (size: 8.6 KiB, free: 767.3 MiB)
+23/06/17 12:10:02 INFO SparkContext: Created broadcast 6 from broadcast at DAGScheduler.scala:1478
+23/06/17 12:10:02 INFO DAGScheduler: Submitting 1 missing tasks from ShuffleMapStage 2 (MapPartitionsRDD[16] at show at SparkAssignment3.scala:27) (first 15 tasks are for partitions Vector(0))
+23/06/17 12:10:02 INFO TaskSchedulerImpl: Adding task set 2.0 with 1 tasks resource profile 0
+23/06/17 12:10:02 INFO TaskSetManager: Starting task 0.0 in stage 2.0 (TID 2) (LAPTOP-CRNI3FFE, executor driver, partition 0, PROCESS_LOCAL, 4864 bytes) taskResourceAssignments Map()
+23/06/17 12:10:02 INFO Executor: Running task 0.0 in stage 2.0 (TID 2)
+23/06/17 12:10:02 INFO FileScanRDD: Reading File path: file:///C:/JavaDemo/Scala/myproject/input/data.csv, range: 0-3751306, partition values: [empty row]
+23/06/17 12:10:02 INFO CodeGenerator: Code generated in 14.2949 ms
+23/06/17 12:10:02 INFO BlockManagerInfo: Removed broadcast_4_piece0 on LAPTOP-CRNI3FFE:54839 in memory (size: 6.1 KiB, free: 767.3 MiB)
+23/06/17 12:10:02 INFO BlockManagerInfo: Removed broadcast_3_piece0 on LAPTOP-CRNI3FFE:54839 in memory (size: 32.4 KiB, free: 767.3 MiB)
+23/06/17 12:10:02 INFO Executor: Finished task 0.0 in stage 2.0 (TID 2). 2018 bytes result sent to driver
+23/06/17 12:10:02 INFO TaskSetManager: Finished task 0.0 in stage 2.0 (TID 2) in 514 ms on LAPTOP-CRNI3FFE (executor driver) (1/1)
+23/06/17 12:10:02 INFO TaskSchedulerImpl: Removed TaskSet 2.0, whose tasks have all completed, from pool 
+23/06/17 12:10:02 INFO DAGScheduler: ShuffleMapStage 2 (show at SparkAssignment3.scala:27) finished in 0.576 s
+23/06/17 12:10:02 INFO DAGScheduler: looking for newly runnable stages
+23/06/17 12:10:02 INFO DAGScheduler: running: Set()
+23/06/17 12:10:02 INFO DAGScheduler: waiting: Set()
+23/06/17 12:10:02 INFO DAGScheduler: failed: Set()
+23/06/17 12:10:02 INFO CodeGenerator: Code generated in 20.7215 ms
+23/06/17 12:10:02 INFO SparkContext: Starting job: show at SparkAssignment3.scala:27
+23/06/17 12:10:02 INFO DAGScheduler: Got job 3 (show at SparkAssignment3.scala:27) with 1 output partitions
+23/06/17 12:10:02 INFO DAGScheduler: Final stage: ResultStage 4 (show at SparkAssignment3.scala:27)
+23/06/17 12:10:02 INFO DAGScheduler: Parents of final stage: List(ShuffleMapStage 3)
+23/06/17 12:10:02 INFO DAGScheduler: Missing parents: List()
+23/06/17 12:10:02 INFO DAGScheduler: Submitting ResultStage 4 (MapPartitionsRDD[19] at show at SparkAssignment3.scala:27), which has no missing parents
+23/06/17 12:10:02 INFO MemoryStore: Block broadcast_7 stored as values in memory (estimated size 11.1 KiB, free 766.3 MiB)
+23/06/17 12:10:02 INFO MemoryStore: Block broadcast_7_piece0 stored as bytes in memory (estimated size 5.5 KiB, free 766.3 MiB)
+23/06/17 12:10:02 INFO BlockManagerInfo: Added broadcast_7_piece0 in memory on LAPTOP-CRNI3FFE:54839 (size: 5.5 KiB, free: 767.3 MiB)
+23/06/17 12:10:02 INFO SparkContext: Created broadcast 7 from broadcast at DAGScheduler.scala:1478
+23/06/17 12:10:02 INFO DAGScheduler: Submitting 1 missing tasks from ResultStage 4 (MapPartitionsRDD[19] at show at SparkAssignment3.scala:27) (first 15 tasks are for partitions Vector(0))
+23/06/17 12:10:02 INFO TaskSchedulerImpl: Adding task set 4.0 with 1 tasks resource profile 0
+23/06/17 12:10:02 INFO TaskSetManager: Starting task 0.0 in stage 4.0 (TID 3) (LAPTOP-CRNI3FFE, executor driver, partition 0, NODE_LOCAL, 4453 bytes) taskResourceAssignments Map()
+23/06/17 12:10:02 INFO Executor: Running task 0.0 in stage 4.0 (TID 3)
+23/06/17 12:10:03 INFO ShuffleBlockFetcherIterator: Getting 1 (60.0 B) non-empty blocks including 1 (60.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+23/06/17 12:10:03 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 30 ms
+23/06/17 12:10:03 INFO Executor: Finished task 0.0 in stage 4.0 (TID 3). 2614 bytes result sent to driver
+23/06/17 12:10:03 INFO TaskSetManager: Finished task 0.0 in stage 4.0 (TID 3) in 151 ms on LAPTOP-CRNI3FFE (executor driver) (1/1)
+23/06/17 12:10:03 INFO TaskSchedulerImpl: Removed TaskSet 4.0, whose tasks have all completed, from pool 
+23/06/17 12:10:03 INFO DAGScheduler: ResultStage 4 (show at SparkAssignment3.scala:27) finished in 0.167 s
+23/06/17 12:10:03 INFO DAGScheduler: Job 3 is finished. Cancelling potential speculative or zombie tasks for this job
+23/06/17 12:10:03 INFO TaskSchedulerImpl: Killing all running tasks in stage 4: Stage finished
+23/06/17 12:10:03 INFO DAGScheduler: Job 3 finished: show at SparkAssignment3.scala:27, took 0.176341 s
+23/06/17 12:10:03 INFO CodeGenerator: Code generated in 18.7149 ms
++------------+
+|successCount|
++------------+
+|        1511|
++------------+
+
+23/06/17 12:10:03 INFO FileSourceStrategy: Pushed Filters: IsNotNull(poutcome),EqualTo(poutcome,failure)
+23/06/17 12:10:03 INFO FileSourceStrategy: Post-Scan Filters: isnotnull(poutcome#31),(poutcome#31 = failure)
+23/06/17 12:10:03 INFO FileSourceStrategy: Output Data Schema: struct<poutcome: string>
+23/06/17 12:10:03 INFO MemoryStore: Block broadcast_8 stored as values in memory (estimated size 337.3 KiB, free 765.9 MiB)
+23/06/17 12:10:03 INFO MemoryStore: Block broadcast_8_piece0 stored as bytes in memory (estimated size 32.4 KiB, free 765.9 MiB)
+23/06/17 12:10:03 INFO BlockManagerInfo: Added broadcast_8_piece0 in memory on LAPTOP-CRNI3FFE:54839 (size: 32.4 KiB, free: 767.3 MiB)
+23/06/17 12:10:03 INFO SparkContext: Created broadcast 8 from show at SparkAssignment3.scala:28
+23/06/17 12:10:03 INFO FileSourceScanExec: Planning scan with bin packing, max size: 7945610 bytes, open cost is considered as scanning 4194304 bytes.
+23/06/17 12:10:03 INFO DAGScheduler: Registering RDD 23 (show at SparkAssignment3.scala:28) as input to shuffle 1
+23/06/17 12:10:03 INFO DAGScheduler: Got map stage job 4 (show at SparkAssignment3.scala:28) with 1 output partitions
+23/06/17 12:10:03 INFO DAGScheduler: Final stage: ShuffleMapStage 5 (show at SparkAssignment3.scala:28)
+23/06/17 12:10:03 INFO DAGScheduler: Parents of final stage: List()
+23/06/17 12:10:03 INFO DAGScheduler: Missing parents: List()
+23/06/17 12:10:03 INFO DAGScheduler: Submitting ShuffleMapStage 5 (MapPartitionsRDD[23] at show at SparkAssignment3.scala:28), which has no missing parents
+23/06/17 12:10:03 INFO MemoryStore: Block broadcast_9 stored as values in memory (estimated size 17.1 KiB, free 765.9 MiB)
+23/06/17 12:10:03 INFO MemoryStore: Block broadcast_9_piece0 stored as bytes in memory (estimated size 8.7 KiB, free 765.9 MiB)
+23/06/17 12:10:03 INFO BlockManagerInfo: Added broadcast_9_piece0 in memory on LAPTOP-CRNI3FFE:54839 (size: 8.7 KiB, free: 767.2 MiB)
+23/06/17 12:10:03 INFO SparkContext: Created broadcast 9 from broadcast at DAGScheduler.scala:1478
+23/06/17 12:10:03 INFO DAGScheduler: Submitting 1 missing tasks from ShuffleMapStage 5 (MapPartitionsRDD[23] at show at SparkAssignment3.scala:28) (first 15 tasks are for partitions Vector(0))
+23/06/17 12:10:03 INFO TaskSchedulerImpl: Adding task set 5.0 with 1 tasks resource profile 0
+23/06/17 12:10:03 INFO TaskSetManager: Starting task 0.0 in stage 5.0 (TID 4) (LAPTOP-CRNI3FFE, executor driver, partition 0, PROCESS_LOCAL, 4864 bytes) taskResourceAssignments Map()
+23/06/17 12:10:03 INFO Executor: Running task 0.0 in stage 5.0 (TID 4)
+23/06/17 12:10:03 INFO FileScanRDD: Reading File path: file:///C:/JavaDemo/Scala/myproject/input/data.csv, range: 0-3751306, partition values: [empty row]
+23/06/17 12:10:03 INFO Executor: Finished task 0.0 in stage 5.0 (TID 4). 1932 bytes result sent to driver
+23/06/17 12:10:03 INFO TaskSetManager: Finished task 0.0 in stage 5.0 (TID 4) in 220 ms on LAPTOP-CRNI3FFE (executor driver) (1/1)
+23/06/17 12:10:03 INFO TaskSchedulerImpl: Removed TaskSet 5.0, whose tasks have all completed, from pool 
+23/06/17 12:10:03 INFO DAGScheduler: ShuffleMapStage 5 (show at SparkAssignment3.scala:28) finished in 0.236 s
+23/06/17 12:10:03 INFO DAGScheduler: looking for newly runnable stages
+23/06/17 12:10:03 INFO DAGScheduler: running: Set()
+23/06/17 12:10:03 INFO DAGScheduler: waiting: Set()
+23/06/17 12:10:03 INFO DAGScheduler: failed: Set()
+23/06/17 12:10:03 INFO SparkContext: Starting job: show at SparkAssignment3.scala:28
+23/06/17 12:10:03 INFO DAGScheduler: Got job 5 (show at SparkAssignment3.scala:28) with 1 output partitions
+23/06/17 12:10:03 INFO DAGScheduler: Final stage: ResultStage 7 (show at SparkAssignment3.scala:28)
+23/06/17 12:10:03 INFO DAGScheduler: Parents of final stage: List(ShuffleMapStage 6)
+23/06/17 12:10:03 INFO DAGScheduler: Missing parents: List()
+23/06/17 12:10:03 INFO DAGScheduler: Submitting ResultStage 7 (MapPartitionsRDD[26] at show at SparkAssignment3.scala:28), which has no missing parents
+23/06/17 12:10:03 INFO MemoryStore: Block broadcast_10 stored as values in memory (estimated size 11.1 KiB, free 765.9 MiB)
+23/06/17 12:10:03 INFO MemoryStore: Block broadcast_10_piece0 stored as bytes in memory (estimated size 5.5 KiB, free 765.9 MiB)
+23/06/17 12:10:03 INFO BlockManagerInfo: Added broadcast_10_piece0 in memory on LAPTOP-CRNI3FFE:54839 (size: 5.5 KiB, free: 767.2 MiB)
+23/06/17 12:10:03 INFO SparkContext: Created broadcast 10 from broadcast at DAGScheduler.scala:1478
+23/06/17 12:10:03 INFO DAGScheduler: Submitting 1 missing tasks from ResultStage 7 (MapPartitionsRDD[26] at show at SparkAssignment3.scala:28) (first 15 tasks are for partitions Vector(0))
+23/06/17 12:10:03 INFO TaskSchedulerImpl: Adding task set 7.0 with 1 tasks resource profile 0
+23/06/17 12:10:03 INFO TaskSetManager: Starting task 0.0 in stage 7.0 (TID 5) (LAPTOP-CRNI3FFE, executor driver, partition 0, NODE_LOCAL, 4453 bytes) taskResourceAssignments Map()
+23/06/17 12:10:03 INFO Executor: Running task 0.0 in stage 7.0 (TID 5)
+23/06/17 12:10:03 INFO ShuffleBlockFetcherIterator: Getting 1 (60.0 B) non-empty blocks including 1 (60.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+23/06/17 12:10:03 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 1 ms
+23/06/17 12:10:03 INFO Executor: Finished task 0.0 in stage 7.0 (TID 5). 2571 bytes result sent to driver
+23/06/17 12:10:03 INFO TaskSetManager: Finished task 0.0 in stage 7.0 (TID 5) in 16 ms on LAPTOP-CRNI3FFE (executor driver) (1/1)
+23/06/17 12:10:03 INFO TaskSchedulerImpl: Removed TaskSet 7.0, whose tasks have all completed, from pool 
+23/06/17 12:10:03 INFO DAGScheduler: ResultStage 7 (show at SparkAssignment3.scala:28) finished in 0.032 s
+23/06/17 12:10:03 INFO DAGScheduler: Job 5 is finished. Cancelling potential speculative or zombie tasks for this job
+23/06/17 12:10:03 INFO TaskSchedulerImpl: Killing all running tasks in stage 7: Stage finished
+23/06/17 12:10:03 INFO DAGScheduler: Job 5 finished: show at SparkAssignment3.scala:28, took 0.043201 s
++------------+
+|failureCount|
++------------+
+|        4901|
++------------+
+
+23/06/17 12:10:03 INFO FileSourceStrategy: Pushed Filters: 
+23/06/17 12:10:03 INFO FileSourceStrategy: Post-Scan Filters: 
+23/06/17 12:10:03 INFO FileSourceStrategy: Output Data Schema: struct<>
+23/06/17 12:10:03 INFO CodeGenerator: Code generated in 22.2059 ms
+23/06/17 12:10:03 INFO MemoryStore: Block broadcast_11 stored as values in memory (estimated size 337.3 KiB, free 765.5 MiB)
+23/06/17 12:10:03 INFO MemoryStore: Block broadcast_11_piece0 stored as bytes in memory (estimated size 32.4 KiB, free 765.5 MiB)
+23/06/17 12:10:03 INFO BlockManagerInfo: Added broadcast_11_piece0 in memory on LAPTOP-CRNI3FFE:54839 (size: 32.4 KiB, free: 767.2 MiB)
+23/06/17 12:10:03 INFO SparkContext: Created broadcast 11 from show at SparkAssignment3.scala:29
+23/06/17 12:10:03 INFO FileSourceScanExec: Planning scan with bin packing, max size: 7945610 bytes, open cost is considered as scanning 4194304 bytes.
+23/06/17 12:10:03 INFO DAGScheduler: Registering RDD 30 (show at SparkAssignment3.scala:29) as input to shuffle 2
+23/06/17 12:10:03 INFO DAGScheduler: Got map stage job 6 (show at SparkAssignment3.scala:29) with 1 output partitions
+23/06/17 12:10:03 INFO DAGScheduler: Final stage: ShuffleMapStage 8 (show at SparkAssignment3.scala:29)
+23/06/17 12:10:03 INFO DAGScheduler: Parents of final stage: List()
+23/06/17 12:10:03 INFO DAGScheduler: Missing parents: List()
+23/06/17 12:10:03 INFO DAGScheduler: Submitting ShuffleMapStage 8 (MapPartitionsRDD[30] at show at SparkAssignment3.scala:29), which has no missing parents
+23/06/17 12:10:03 INFO MemoryStore: Block broadcast_12 stored as values in memory (estimated size 16.1 KiB, free 765.5 MiB)
+23/06/17 12:10:03 INFO MemoryStore: Block broadcast_12_piece0 stored as bytes in memory (estimated size 8.3 KiB, free 765.5 MiB)
+23/06/17 12:10:03 INFO BlockManagerInfo: Added broadcast_12_piece0 in memory on LAPTOP-CRNI3FFE:54839 (size: 8.3 KiB, free: 767.2 MiB)
+23/06/17 12:10:03 INFO SparkContext: Created broadcast 12 from broadcast at DAGScheduler.scala:1478
+23/06/17 12:10:03 INFO DAGScheduler: Submitting 1 missing tasks from ShuffleMapStage 8 (MapPartitionsRDD[30] at show at SparkAssignment3.scala:29) (first 15 tasks are for partitions Vector(0))
+23/06/17 12:10:03 INFO TaskSchedulerImpl: Adding task set 8.0 with 1 tasks resource profile 0
+23/06/17 12:10:03 INFO TaskSetManager: Starting task 0.0 in stage 8.0 (TID 6) (LAPTOP-CRNI3FFE, executor driver, partition 0, PROCESS_LOCAL, 4864 bytes) taskResourceAssignments Map()
+23/06/17 12:10:03 INFO Executor: Running task 0.0 in stage 8.0 (TID 6)
+23/06/17 12:10:03 INFO FileScanRDD: Reading File path: file:///C:/JavaDemo/Scala/myproject/input/data.csv, range: 0-3751306, partition values: [empty row]
+23/06/17 12:10:03 INFO CodeGenerator: Code generated in 14.8109 ms
+23/06/17 12:10:04 INFO Executor: Finished task 0.0 in stage 8.0 (TID 6). 1876 bytes result sent to driver
+23/06/17 12:10:04 INFO TaskSetManager: Finished task 0.0 in stage 8.0 (TID 6) in 156 ms on LAPTOP-CRNI3FFE (executor driver) (1/1)
+23/06/17 12:10:04 INFO TaskSchedulerImpl: Removed TaskSet 8.0, whose tasks have all completed, from pool 
+23/06/17 12:10:04 INFO DAGScheduler: ShuffleMapStage 8 (show at SparkAssignment3.scala:29) finished in 0.172 s
+23/06/17 12:10:04 INFO DAGScheduler: looking for newly runnable stages
+23/06/17 12:10:04 INFO DAGScheduler: running: Set()
+23/06/17 12:10:04 INFO DAGScheduler: waiting: Set()
+23/06/17 12:10:04 INFO DAGScheduler: failed: Set()
+23/06/17 12:10:04 INFO SparkContext: Starting job: show at SparkAssignment3.scala:29
+23/06/17 12:10:04 INFO DAGScheduler: Got job 7 (show at SparkAssignment3.scala:29) with 1 output partitions
+23/06/17 12:10:04 INFO DAGScheduler: Final stage: ResultStage 10 (show at SparkAssignment3.scala:29)
+23/06/17 12:10:04 INFO DAGScheduler: Parents of final stage: List(ShuffleMapStage 9)
+23/06/17 12:10:04 INFO DAGScheduler: Missing parents: List()
+23/06/17 12:10:04 INFO DAGScheduler: Submitting ResultStage 10 (MapPartitionsRDD[33] at show at SparkAssignment3.scala:29), which has no missing parents
+23/06/17 12:10:04 INFO MemoryStore: Block broadcast_13 stored as values in memory (estimated size 11.1 KiB, free 765.5 MiB)
+23/06/17 12:10:04 INFO MemoryStore: Block broadcast_13_piece0 stored as bytes in memory (estimated size 5.5 KiB, free 765.5 MiB)
+23/06/17 12:10:04 INFO BlockManagerInfo: Added broadcast_13_piece0 in memory on LAPTOP-CRNI3FFE:54839 (size: 5.5 KiB, free: 767.2 MiB)
+23/06/17 12:10:04 INFO SparkContext: Created broadcast 13 from broadcast at DAGScheduler.scala:1478
+23/06/17 12:10:04 INFO DAGScheduler: Submitting 1 missing tasks from ResultStage 10 (MapPartitionsRDD[33] at show at SparkAssignment3.scala:29) (first 15 tasks are for partitions Vector(0))
+23/06/17 12:10:04 INFO TaskSchedulerImpl: Adding task set 10.0 with 1 tasks resource profile 0
+23/06/17 12:10:04 INFO TaskSetManager: Starting task 0.0 in stage 10.0 (TID 7) (LAPTOP-CRNI3FFE, executor driver, partition 0, NODE_LOCAL, 4453 bytes) taskResourceAssignments Map()
+23/06/17 12:10:04 INFO Executor: Running task 0.0 in stage 10.0 (TID 7)
+23/06/17 12:10:04 INFO ShuffleBlockFetcherIterator: Getting 1 (60.0 B) non-empty blocks including 1 (60.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+23/06/17 12:10:04 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 1 ms
+23/06/17 12:10:04 INFO Executor: Finished task 0.0 in stage 10.0 (TID 7). 2571 bytes result sent to driver
+23/06/17 12:10:04 INFO TaskSetManager: Finished task 0.0 in stage 10.0 (TID 7) in 15 ms on LAPTOP-CRNI3FFE (executor driver) (1/1)
+23/06/17 12:10:04 INFO TaskSchedulerImpl: Removed TaskSet 10.0, whose tasks have all completed, from pool 
+23/06/17 12:10:04 INFO DAGScheduler: ResultStage 10 (show at SparkAssignment3.scala:29) finished in 0.033 s
+23/06/17 12:10:04 INFO DAGScheduler: Job 7 is finished. Cancelling potential speculative or zombie tasks for this job
+23/06/17 12:10:04 INFO TaskSchedulerImpl: Killing all running tasks in stage 10: Stage finished
+23/06/17 12:10:04 INFO DAGScheduler: Job 7 finished: show at SparkAssignment3.scala:29, took 0.047962 s
++----------+
+|totalCount|
++----------+
+|     45211|
++----------+
+
+23/06/17 12:10:04 INFO FileSourceStrategy: Pushed Filters: IsNotNull(poutcome),EqualTo(poutcome,success)
+23/06/17 12:10:04 INFO FileSourceStrategy: Post-Scan Filters: isnotnull(poutcome#31),(poutcome#31 = success)
+23/06/17 12:10:04 INFO FileSourceStrategy: Output Data Schema: struct<poutcome: string>
+23/06/17 12:10:04 INFO MemoryStore: Block broadcast_14 stored as values in memory (estimated size 337.3 KiB, free 765.1 MiB)
+23/06/17 12:10:04 INFO MemoryStore: Block broadcast_14_piece0 stored as bytes in memory (estimated size 32.4 KiB, free 765.1 MiB)
+23/06/17 12:10:04 INFO BlockManagerInfo: Added broadcast_14_piece0 in memory on LAPTOP-CRNI3FFE:54839 (size: 32.4 KiB, free: 767.2 MiB)
+23/06/17 12:10:04 INFO SparkContext: Created broadcast 14 from first at SparkAssignment3.scala:34
+23/06/17 12:10:04 INFO FileSourceScanExec: Planning scan with bin packing, max size: 7945610 bytes, open cost is considered as scanning 4194304 bytes.
+23/06/17 12:10:04 INFO DAGScheduler: Registering RDD 37 (first at SparkAssignment3.scala:34) as input to shuffle 3
+23/06/17 12:10:04 INFO DAGScheduler: Got map stage job 8 (first at SparkAssignment3.scala:34) with 1 output partitions
+23/06/17 12:10:04 INFO DAGScheduler: Final stage: ShuffleMapStage 11 (first at SparkAssignment3.scala:34)
+23/06/17 12:10:04 INFO DAGScheduler: Parents of final stage: List()
+23/06/17 12:10:04 INFO DAGScheduler: Missing parents: List()
+23/06/17 12:10:04 INFO DAGScheduler: Submitting ShuffleMapStage 11 (MapPartitionsRDD[37] at first at SparkAssignment3.scala:34), which has no missing parents
+23/06/17 12:10:04 INFO MemoryStore: Block broadcast_15 stored as values in memory (estimated size 17.1 KiB, free 765.1 MiB)
+23/06/17 12:10:04 INFO MemoryStore: Block broadcast_15_piece0 stored as bytes in memory (estimated size 8.6 KiB, free 765.1 MiB)
+23/06/17 12:10:04 INFO BlockManagerInfo: Added broadcast_15_piece0 in memory on LAPTOP-CRNI3FFE:54839 (size: 8.6 KiB, free: 767.2 MiB)
+23/06/17 12:10:04 INFO SparkContext: Created broadcast 15 from broadcast at DAGScheduler.scala:1478
+23/06/17 12:10:04 INFO DAGScheduler: Submitting 1 missing tasks from ShuffleMapStage 11 (MapPartitionsRDD[37] at first at SparkAssignment3.scala:34) (first 15 tasks are for partitions Vector(0))
+23/06/17 12:10:04 INFO TaskSchedulerImpl: Adding task set 11.0 with 1 tasks resource profile 0
+23/06/17 12:10:04 INFO TaskSetManager: Starting task 0.0 in stage 11.0 (TID 8) (LAPTOP-CRNI3FFE, executor driver, partition 0, PROCESS_LOCAL, 4864 bytes) taskResourceAssignments Map()
+23/06/17 12:10:04 INFO Executor: Running task 0.0 in stage 11.0 (TID 8)
+23/06/17 12:10:04 INFO BlockManagerInfo: Removed broadcast_11_piece0 on LAPTOP-CRNI3FFE:54839 in memory (size: 32.4 KiB, free: 767.2 MiB)
+23/06/17 12:10:04 INFO FileScanRDD: Reading File path: file:///C:/JavaDemo/Scala/myproject/input/data.csv, range: 0-3751306, partition values: [empty row]
+23/06/17 12:10:04 INFO BlockManagerInfo: Removed broadcast_9_piece0 on LAPTOP-CRNI3FFE:54839 in memory (size: 8.7 KiB, free: 767.2 MiB)
+23/06/17 12:10:04 INFO BlockManagerInfo: Removed broadcast_13_piece0 on LAPTOP-CRNI3FFE:54839 in memory (size: 5.5 KiB, free: 767.2 MiB)
+23/06/17 12:10:04 INFO BlockManagerInfo: Removed broadcast_8_piece0 on LAPTOP-CRNI3FFE:54839 in memory (size: 32.4 KiB, free: 767.2 MiB)
+23/06/17 12:10:04 INFO BlockManagerInfo: Removed broadcast_12_piece0 on LAPTOP-CRNI3FFE:54839 in memory (size: 8.3 KiB, free: 767.2 MiB)
+23/06/17 12:10:04 INFO BlockManagerInfo: Removed broadcast_7_piece0 on LAPTOP-CRNI3FFE:54839 in memory (size: 5.5 KiB, free: 767.2 MiB)
+23/06/17 12:10:04 INFO BlockManagerInfo: Removed broadcast_10_piece0 on LAPTOP-CRNI3FFE:54839 in memory (size: 5.5 KiB, free: 767.3 MiB)
+23/06/17 12:10:04 INFO Executor: Finished task 0.0 in stage 11.0 (TID 8). 1975 bytes result sent to driver
+23/06/17 12:10:04 INFO TaskSetManager: Finished task 0.0 in stage 11.0 (TID 8) in 156 ms on LAPTOP-CRNI3FFE (executor driver) (1/1)
+23/06/17 12:10:04 INFO TaskSchedulerImpl: Removed TaskSet 11.0, whose tasks have all completed, from pool 
+23/06/17 12:10:04 INFO DAGScheduler: ShuffleMapStage 11 (first at SparkAssignment3.scala:34) finished in 0.172 s
+23/06/17 12:10:04 INFO DAGScheduler: looking for newly runnable stages
+23/06/17 12:10:04 INFO DAGScheduler: running: Set()
+23/06/17 12:10:04 INFO DAGScheduler: waiting: Set()
+23/06/17 12:10:04 INFO DAGScheduler: failed: Set()
+23/06/17 12:10:04 INFO CodeGenerator: Code generated in 18.1908 ms
+23/06/17 12:10:04 INFO SparkContext: Starting job: first at SparkAssignment3.scala:34
+23/06/17 12:10:04 INFO DAGScheduler: Got job 9 (first at SparkAssignment3.scala:34) with 1 output partitions
+23/06/17 12:10:04 INFO DAGScheduler: Final stage: ResultStage 13 (first at SparkAssignment3.scala:34)
+23/06/17 12:10:04 INFO DAGScheduler: Parents of final stage: List(ShuffleMapStage 12)
+23/06/17 12:10:04 INFO DAGScheduler: Missing parents: List()
+23/06/17 12:10:04 INFO DAGScheduler: Submitting ResultStage 13 (MapPartitionsRDD[40] at first at SparkAssignment3.scala:34), which has no missing parents
+23/06/17 12:10:04 INFO MemoryStore: Block broadcast_16 stored as values in memory (estimated size 11.0 KiB, free 765.9 MiB)
+23/06/17 12:10:04 INFO MemoryStore: Block broadcast_16_piece0 stored as bytes in memory (estimated size 5.5 KiB, free 765.9 MiB)
+23/06/17 12:10:04 INFO BlockManagerInfo: Added broadcast_16_piece0 in memory on LAPTOP-CRNI3FFE:54839 (size: 5.5 KiB, free: 767.2 MiB)
+23/06/17 12:10:04 INFO SparkContext: Created broadcast 16 from broadcast at DAGScheduler.scala:1478
+23/06/17 12:10:04 INFO DAGScheduler: Submitting 1 missing tasks from ResultStage 13 (MapPartitionsRDD[40] at first at SparkAssignment3.scala:34) (first 15 tasks are for partitions Vector(0))
+23/06/17 12:10:04 INFO TaskSchedulerImpl: Adding task set 13.0 with 1 tasks resource profile 0
+23/06/17 12:10:04 INFO TaskSetManager: Starting task 0.0 in stage 13.0 (TID 9) (LAPTOP-CRNI3FFE, executor driver, partition 0, NODE_LOCAL, 4453 bytes) taskResourceAssignments Map()
+23/06/17 12:10:04 INFO Executor: Running task 0.0 in stage 13.0 (TID 9)
+23/06/17 12:10:04 INFO ShuffleBlockFetcherIterator: Getting 1 (60.0 B) non-empty blocks including 1 (60.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+23/06/17 12:10:04 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 1 ms
+23/06/17 12:10:04 INFO Executor: Finished task 0.0 in stage 13.0 (TID 9). 2562 bytes result sent to driver
+23/06/17 12:10:04 INFO TaskSetManager: Finished task 0.0 in stage 13.0 (TID 9) in 32 ms on LAPTOP-CRNI3FFE (executor driver) (1/1)
+23/06/17 12:10:04 INFO TaskSchedulerImpl: Removed TaskSet 13.0, whose tasks have all completed, from pool 
+23/06/17 12:10:04 INFO DAGScheduler: ResultStage 13 (first at SparkAssignment3.scala:34) finished in 0.032 s
+23/06/17 12:10:04 INFO DAGScheduler: Job 9 is finished. Cancelling potential speculative or zombie tasks for this job
+23/06/17 12:10:04 INFO TaskSchedulerImpl: Killing all running tasks in stage 13: Stage finished
+23/06/17 12:10:04 INFO DAGScheduler: Job 9 finished: first at SparkAssignment3.scala:34, took 0.042005 s
+23/06/17 12:10:04 INFO CodeGenerator: Code generated in 12.8777 ms
+23/06/17 12:10:04 INFO FileSourceStrategy: Pushed Filters: IsNotNull(poutcome),EqualTo(poutcome,failure)
+23/06/17 12:10:04 INFO FileSourceStrategy: Post-Scan Filters: isnotnull(poutcome#31),(poutcome#31 = failure)
+23/06/17 12:10:04 INFO FileSourceStrategy: Output Data Schema: struct<poutcome: string>
+23/06/17 12:10:04 INFO MemoryStore: Block broadcast_17 stored as values in memory (estimated size 337.3 KiB, free 765.5 MiB)
+23/06/17 12:10:04 INFO MemoryStore: Block broadcast_17_piece0 stored as bytes in memory (estimated size 32.4 KiB, free 765.5 MiB)
+23/06/17 12:10:04 INFO BlockManagerInfo: Added broadcast_17_piece0 in memory on LAPTOP-CRNI3FFE:54839 (size: 32.4 KiB, free: 767.2 MiB)
+23/06/17 12:10:04 INFO SparkContext: Created broadcast 17 from first at SparkAssignment3.scala:35
+23/06/17 12:10:04 INFO FileSourceScanExec: Planning scan with bin packing, max size: 7945610 bytes, open cost is considered as scanning 4194304 bytes.
+23/06/17 12:10:04 INFO DAGScheduler: Registering RDD 44 (first at SparkAssignment3.scala:35) as input to shuffle 4
+23/06/17 12:10:04 INFO DAGScheduler: Got map stage job 10 (first at SparkAssignment3.scala:35) with 1 output partitions
+23/06/17 12:10:04 INFO DAGScheduler: Final stage: ShuffleMapStage 14 (first at SparkAssignment3.scala:35)
+23/06/17 12:10:04 INFO DAGScheduler: Parents of final stage: List()
+23/06/17 12:10:04 INFO DAGScheduler: Missing parents: List()
+23/06/17 12:10:04 INFO DAGScheduler: Submitting ShuffleMapStage 14 (MapPartitionsRDD[44] at first at SparkAssignment3.scala:35), which has no missing parents
+23/06/17 12:10:04 INFO MemoryStore: Block broadcast_18 stored as values in memory (estimated size 17.1 KiB, free 765.5 MiB)
+23/06/17 12:10:04 INFO MemoryStore: Block broadcast_18_piece0 stored as bytes in memory (estimated size 8.6 KiB, free 765.5 MiB)
+23/06/17 12:10:04 INFO BlockManagerInfo: Added broadcast_18_piece0 in memory on LAPTOP-CRNI3FFE:54839 (size: 8.6 KiB, free: 767.2 MiB)
+23/06/17 12:10:04 INFO SparkContext: Created broadcast 18 from broadcast at DAGScheduler.scala:1478
+23/06/17 12:10:04 INFO DAGScheduler: Submitting 1 missing tasks from ShuffleMapStage 14 (MapPartitionsRDD[44] at first at SparkAssignment3.scala:35) (first 15 tasks are for partitions Vector(0))
+23/06/17 12:10:04 INFO TaskSchedulerImpl: Adding task set 14.0 with 1 tasks resource profile 0
+23/06/17 12:10:04 INFO TaskSetManager: Starting task 0.0 in stage 14.0 (TID 10) (LAPTOP-CRNI3FFE, executor driver, partition 0, PROCESS_LOCAL, 4864 bytes) taskResourceAssignments Map()
+23/06/17 12:10:04 INFO Executor: Running task 0.0 in stage 14.0 (TID 10)
+23/06/17 12:10:04 INFO FileScanRDD: Reading File path: file:///C:/JavaDemo/Scala/myproject/input/data.csv, range: 0-3751306, partition values: [empty row]
+23/06/17 12:10:04 INFO Executor: Finished task 0.0 in stage 14.0 (TID 10). 1932 bytes result sent to driver
+23/06/17 12:10:04 INFO TaskSetManager: Finished task 0.0 in stage 14.0 (TID 10) in 152 ms on LAPTOP-CRNI3FFE (executor driver) (1/1)
+23/06/17 12:10:04 INFO TaskSchedulerImpl: Removed TaskSet 14.0, whose tasks have all completed, from pool 
+23/06/17 12:10:04 INFO DAGScheduler: ShuffleMapStage 14 (first at SparkAssignment3.scala:35) finished in 0.158 s
+23/06/17 12:10:04 INFO DAGScheduler: looking for newly runnable stages
+23/06/17 12:10:04 INFO DAGScheduler: running: Set()
+23/06/17 12:10:04 INFO DAGScheduler: waiting: Set()
+23/06/17 12:10:04 INFO DAGScheduler: failed: Set()
+23/06/17 12:10:04 INFO SparkContext: Starting job: first at SparkAssignment3.scala:35
+23/06/17 12:10:04 INFO DAGScheduler: Got job 11 (first at SparkAssignment3.scala:35) with 1 output partitions
+23/06/17 12:10:04 INFO DAGScheduler: Final stage: ResultStage 16 (first at SparkAssignment3.scala:35)
+23/06/17 12:10:04 INFO DAGScheduler: Parents of final stage: List(ShuffleMapStage 15)
+23/06/17 12:10:04 INFO DAGScheduler: Missing parents: List()
+23/06/17 12:10:04 INFO DAGScheduler: Submitting ResultStage 16 (MapPartitionsRDD[47] at first at SparkAssignment3.scala:35), which has no missing parents
+23/06/17 12:10:04 INFO MemoryStore: Block broadcast_19 stored as values in memory (estimated size 11.0 KiB, free 765.5 MiB)
+23/06/17 12:10:04 INFO MemoryStore: Block broadcast_19_piece0 stored as bytes in memory (estimated size 5.5 KiB, free 765.5 MiB)
+23/06/17 12:10:04 INFO BlockManagerInfo: Added broadcast_19_piece0 in memory on LAPTOP-CRNI3FFE:54839 (size: 5.5 KiB, free: 767.2 MiB)
+23/06/17 12:10:04 INFO SparkContext: Created broadcast 19 from broadcast at DAGScheduler.scala:1478
+23/06/17 12:10:04 INFO DAGScheduler: Submitting 1 missing tasks from ResultStage 16 (MapPartitionsRDD[47] at first at SparkAssignment3.scala:35) (first 15 tasks are for partitions Vector(0))
+23/06/17 12:10:04 INFO TaskSchedulerImpl: Adding task set 16.0 with 1 tasks resource profile 0
+23/06/17 12:10:04 INFO TaskSetManager: Starting task 0.0 in stage 16.0 (TID 11) (LAPTOP-CRNI3FFE, executor driver, partition 0, NODE_LOCAL, 4453 bytes) taskResourceAssignments Map()
+23/06/17 12:10:04 INFO Executor: Running task 0.0 in stage 16.0 (TID 11)
+23/06/17 12:10:04 INFO ShuffleBlockFetcherIterator: Getting 1 (60.0 B) non-empty blocks including 1 (60.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+23/06/17 12:10:04 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 1 ms
+23/06/17 12:10:04 INFO Executor: Finished task 0.0 in stage 16.0 (TID 11). 2562 bytes result sent to driver
+23/06/17 12:10:04 INFO TaskSetManager: Finished task 0.0 in stage 16.0 (TID 11) in 16 ms on LAPTOP-CRNI3FFE (executor driver) (1/1)
+23/06/17 12:10:04 INFO TaskSchedulerImpl: Removed TaskSet 16.0, whose tasks have all completed, from pool 
+23/06/17 12:10:04 INFO DAGScheduler: ResultStage 16 (first at SparkAssignment3.scala:35) finished in 0.031 s
+23/06/17 12:10:04 INFO DAGScheduler: Job 11 is finished. Cancelling potential speculative or zombie tasks for this job
+23/06/17 12:10:04 INFO TaskSchedulerImpl: Killing all running tasks in stage 16: Stage finished
+23/06/17 12:10:04 INFO DAGScheduler: Job 11 finished: first at SparkAssignment3.scala:35, took 0.040943 s
+1511
+23/06/17 12:10:04 INFO FileSourceStrategy: Pushed Filters: 
+23/06/17 12:10:04 INFO FileSourceStrategy: Post-Scan Filters: 
+23/06/17 12:10:04 INFO FileSourceStrategy: Output Data Schema: struct<>
+23/06/17 12:10:05 INFO MemoryStore: Block broadcast_20 stored as values in memory (estimated size 337.3 KiB, free 765.1 MiB)
+23/06/17 12:10:05 INFO MemoryStore: Block broadcast_20_piece0 stored as bytes in memory (estimated size 32.4 KiB, free 765.1 MiB)
+23/06/17 12:10:05 INFO BlockManagerInfo: Added broadcast_20_piece0 in memory on LAPTOP-CRNI3FFE:54839 (size: 32.4 KiB, free: 767.2 MiB)
+23/06/17 12:10:05 INFO SparkContext: Created broadcast 20 from first at SparkAssignment3.scala:37
+23/06/17 12:10:05 INFO FileSourceScanExec: Planning scan with bin packing, max size: 7945610 bytes, open cost is considered as scanning 4194304 bytes.
+23/06/17 12:10:05 INFO DAGScheduler: Registering RDD 51 (first at SparkAssignment3.scala:37) as input to shuffle 5
+23/06/17 12:10:05 INFO DAGScheduler: Got map stage job 12 (first at SparkAssignment3.scala:37) with 1 output partitions
+23/06/17 12:10:05 INFO DAGScheduler: Final stage: ShuffleMapStage 17 (first at SparkAssignment3.scala:37)
+23/06/17 12:10:05 INFO DAGScheduler: Parents of final stage: List()
+23/06/17 12:10:05 INFO DAGScheduler: Missing parents: List()
+23/06/17 12:10:05 INFO DAGScheduler: Submitting ShuffleMapStage 17 (MapPartitionsRDD[51] at first at SparkAssignment3.scala:37), which has no missing parents
+23/06/17 12:10:05 INFO MemoryStore: Block broadcast_21 stored as values in memory (estimated size 16.1 KiB, free 765.1 MiB)
+23/06/17 12:10:05 INFO MemoryStore: Block broadcast_21_piece0 stored as bytes in memory (estimated size 8.3 KiB, free 765.1 MiB)
+23/06/17 12:10:05 INFO BlockManagerInfo: Added broadcast_21_piece0 in memory on LAPTOP-CRNI3FFE:54839 (size: 8.3 KiB, free: 767.2 MiB)
+23/06/17 12:10:05 INFO SparkContext: Created broadcast 21 from broadcast at DAGScheduler.scala:1478
+23/06/17 12:10:05 INFO DAGScheduler: Submitting 1 missing tasks from ShuffleMapStage 17 (MapPartitionsRDD[51] at first at SparkAssignment3.scala:37) (first 15 tasks are for partitions Vector(0))
+23/06/17 12:10:05 INFO TaskSchedulerImpl: Adding task set 17.0 with 1 tasks resource profile 0
+23/06/17 12:10:05 INFO TaskSetManager: Starting task 0.0 in stage 17.0 (TID 12) (LAPTOP-CRNI3FFE, executor driver, partition 0, PROCESS_LOCAL, 4864 bytes) taskResourceAssignments Map()
+23/06/17 12:10:05 INFO Executor: Running task 0.0 in stage 17.0 (TID 12)
+23/06/17 12:10:05 INFO FileScanRDD: Reading File path: file:///C:/JavaDemo/Scala/myproject/input/data.csv, range: 0-3751306, partition values: [empty row]
+23/06/17 12:10:05 INFO Executor: Finished task 0.0 in stage 17.0 (TID 12). 1876 bytes result sent to driver
+23/06/17 12:10:05 INFO TaskSetManager: Finished task 0.0 in stage 17.0 (TID 12) in 156 ms on LAPTOP-CRNI3FFE (executor driver) (1/1)
+23/06/17 12:10:05 INFO TaskSchedulerImpl: Removed TaskSet 17.0, whose tasks have all completed, from pool 
+23/06/17 12:10:05 INFO DAGScheduler: ShuffleMapStage 17 (first at SparkAssignment3.scala:37) finished in 0.161 s
+23/06/17 12:10:05 INFO DAGScheduler: looking for newly runnable stages
+23/06/17 12:10:05 INFO DAGScheduler: running: Set()
+23/06/17 12:10:05 INFO DAGScheduler: waiting: Set()
+23/06/17 12:10:05 INFO DAGScheduler: failed: Set()
+23/06/17 12:10:05 INFO SparkContext: Starting job: first at SparkAssignment3.scala:37
+23/06/17 12:10:05 INFO DAGScheduler: Got job 13 (first at SparkAssignment3.scala:37) with 1 output partitions
+23/06/17 12:10:05 INFO DAGScheduler: Final stage: ResultStage 19 (first at SparkAssignment3.scala:37)
+23/06/17 12:10:05 INFO DAGScheduler: Parents of final stage: List(ShuffleMapStage 18)
+23/06/17 12:10:05 INFO DAGScheduler: Missing parents: List()
+23/06/17 12:10:05 INFO BlockManagerInfo: Removed broadcast_15_piece0 on LAPTOP-CRNI3FFE:54839 in memory (size: 8.6 KiB, free: 767.2 MiB)
+23/06/17 12:10:05 INFO DAGScheduler: Submitting ResultStage 19 (MapPartitionsRDD[54] at first at SparkAssignment3.scala:37), which has no missing parents
+23/06/17 12:10:05 INFO MemoryStore: Block broadcast_22 stored as values in memory (estimated size 11.0 KiB, free 765.1 MiB)
+23/06/17 12:10:05 INFO MemoryStore: Block broadcast_22_piece0 stored as bytes in memory (estimated size 5.5 KiB, free 765.1 MiB)
+23/06/17 12:10:05 INFO BlockManagerInfo: Added broadcast_22_piece0 in memory on LAPTOP-CRNI3FFE:54839 (size: 5.5 KiB, free: 767.2 MiB)
+23/06/17 12:10:05 INFO SparkContext: Created broadcast 22 from broadcast at DAGScheduler.scala:1478
+23/06/17 12:10:05 INFO DAGScheduler: Submitting 1 missing tasks from ResultStage 19 (MapPartitionsRDD[54] at first at SparkAssignment3.scala:37) (first 15 tasks are for partitions Vector(0))
+23/06/17 12:10:05 INFO TaskSchedulerImpl: Adding task set 19.0 with 1 tasks resource profile 0
+23/06/17 12:10:05 INFO BlockManagerInfo: Removed broadcast_19_piece0 on LAPTOP-CRNI3FFE:54839 in memory (size: 5.5 KiB, free: 767.2 MiB)
+23/06/17 12:10:05 INFO TaskSetManager: Starting task 0.0 in stage 19.0 (TID 13) (LAPTOP-CRNI3FFE, executor driver, partition 0, NODE_LOCAL, 4453 bytes) taskResourceAssignments Map()
+23/06/17 12:10:05 INFO Executor: Running task 0.0 in stage 19.0 (TID 13)
+23/06/17 12:10:05 INFO ShuffleBlockFetcherIterator: Getting 1 (60.0 B) non-empty blocks including 1 (60.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+23/06/17 12:10:05 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 1 ms
+23/06/17 12:10:05 INFO Executor: Finished task 0.0 in stage 19.0 (TID 13). 2562 bytes result sent to driver
+23/06/17 12:10:05 INFO TaskSetManager: Finished task 0.0 in stage 19.0 (TID 13) in 32 ms on LAPTOP-CRNI3FFE (executor driver) (1/1)
+23/06/17 12:10:05 INFO TaskSchedulerImpl: Removed TaskSet 19.0, whose tasks have all completed, from pool 
+23/06/17 12:10:05 INFO DAGScheduler: ResultStage 19 (first at SparkAssignment3.scala:37) finished in 0.047 s
+23/06/17 12:10:05 INFO BlockManagerInfo: Removed broadcast_17_piece0 on LAPTOP-CRNI3FFE:54839 in memory (size: 32.4 KiB, free: 767.2 MiB)
+23/06/17 12:10:05 INFO DAGScheduler: Job 13 is finished. Cancelling potential speculative or zombie tasks for this job
+23/06/17 12:10:05 INFO TaskSchedulerImpl: Killing all running tasks in stage 19: Stage finished
+23/06/17 12:10:05 INFO DAGScheduler: Job 13 finished: first at SparkAssignment3.scala:37, took 0.045250 s
+45211
+Marketing Success Rate: 0.0334210700935613
+Marketing Failure Rate: 0.10840282232200128
+23/06/17 12:10:05 INFO BlockManagerInfo: Removed broadcast_16_piece0 on LAPTOP-CRNI3FFE:54839 in memory (size: 5.5 KiB, free: 767.2 MiB)
+23/06/17 12:10:05 INFO BlockManagerInfo: Removed broadcast_21_piece0 on LAPTOP-CRNI3FFE:54839 in memory (size: 8.3 KiB, free: 767.2 MiB)
+23/06/17 12:10:05 INFO BlockManagerInfo: Removed broadcast_18_piece0 on LAPTOP-CRNI3FFE:54839 in memory (size: 8.6 KiB, free: 767.2 MiB)
+23/06/17 12:10:05 INFO FileSourceStrategy: Pushed Filters: 
+23/06/17 12:10:05 INFO FileSourceStrategy: Post-Scan Filters: 
+23/06/17 12:10:05 INFO FileSourceStrategy: Output Data Schema: struct<age: string>
+23/06/17 12:10:05 INFO CodeGenerator: Code generated in 50.942 ms
+23/06/17 12:10:05 INFO MemoryStore: Block broadcast_23 stored as values in memory (estimated size 337.3 KiB, free 765.2 MiB)
+23/06/17 12:10:05 INFO MemoryStore: Block broadcast_23_piece0 stored as bytes in memory (estimated size 32.4 KiB, free 765.2 MiB)
+23/06/17 12:10:05 INFO BlockManagerInfo: Added broadcast_23_piece0 in memory on LAPTOP-CRNI3FFE:54839 (size: 32.4 KiB, free: 767.2 MiB)
+23/06/17 12:10:05 INFO SparkContext: Created broadcast 23 from collect at SparkAssignment3.scala:48
+23/06/17 12:10:05 INFO FileSourceScanExec: Planning scan with bin packing, max size: 7945610 bytes, open cost is considered as scanning 4194304 bytes.
+23/06/17 12:10:05 INFO DAGScheduler: Registering RDD 58 (collect at SparkAssignment3.scala:48) as input to shuffle 6
+23/06/17 12:10:05 INFO DAGScheduler: Got map stage job 14 (collect at SparkAssignment3.scala:48) with 1 output partitions
+23/06/17 12:10:05 INFO DAGScheduler: Final stage: ShuffleMapStage 20 (collect at SparkAssignment3.scala:48)
+23/06/17 12:10:05 INFO DAGScheduler: Parents of final stage: List()
+23/06/17 12:10:05 INFO DAGScheduler: Missing parents: List()
+23/06/17 12:10:05 INFO DAGScheduler: Submitting ShuffleMapStage 20 (MapPartitionsRDD[58] at collect at SparkAssignment3.scala:48), which has no missing parents
+23/06/17 12:10:05 INFO MemoryStore: Block broadcast_24 stored as values in memory (estimated size 18.3 KiB, free 765.2 MiB)
+23/06/17 12:10:05 INFO MemoryStore: Block broadcast_24_piece0 stored as bytes in memory (estimated size 9.2 KiB, free 765.1 MiB)
+23/06/17 12:10:05 INFO BlockManagerInfo: Added broadcast_24_piece0 in memory on LAPTOP-CRNI3FFE:54839 (size: 9.2 KiB, free: 767.2 MiB)
+23/06/17 12:10:05 INFO SparkContext: Created broadcast 24 from broadcast at DAGScheduler.scala:1478
+23/06/17 12:10:05 INFO DAGScheduler: Submitting 1 missing tasks from ShuffleMapStage 20 (MapPartitionsRDD[58] at collect at SparkAssignment3.scala:48) (first 15 tasks are for partitions Vector(0))
+23/06/17 12:10:05 INFO TaskSchedulerImpl: Adding task set 20.0 with 1 tasks resource profile 0
+23/06/17 12:10:05 INFO TaskSetManager: Starting task 0.0 in stage 20.0 (TID 14) (LAPTOP-CRNI3FFE, executor driver, partition 0, PROCESS_LOCAL, 4864 bytes) taskResourceAssignments Map()
+23/06/17 12:10:05 INFO Executor: Running task 0.0 in stage 20.0 (TID 14)
+23/06/17 12:10:05 INFO FileScanRDD: Reading File path: file:///C:/JavaDemo/Scala/myproject/input/data.csv, range: 0-3751306, partition values: [empty row]
+23/06/17 12:10:05 INFO Executor: Finished task 0.0 in stage 20.0 (TID 14). 1876 bytes result sent to driver
+23/06/17 12:10:05 INFO TaskSetManager: Finished task 0.0 in stage 20.0 (TID 14) in 297 ms on LAPTOP-CRNI3FFE (executor driver) (1/1)
+23/06/17 12:10:05 INFO TaskSchedulerImpl: Removed TaskSet 20.0, whose tasks have all completed, from pool 
+23/06/17 12:10:05 INFO DAGScheduler: ShuffleMapStage 20 (collect at SparkAssignment3.scala:48) finished in 0.313 s
+23/06/17 12:10:05 INFO DAGScheduler: looking for newly runnable stages
+23/06/17 12:10:05 INFO DAGScheduler: running: Set()
+23/06/17 12:10:05 INFO DAGScheduler: waiting: Set()
+23/06/17 12:10:05 INFO DAGScheduler: failed: Set()
+23/06/17 12:10:05 INFO CodeGenerator: Code generated in 20.2548 ms
+23/06/17 12:10:06 INFO SparkContext: Starting job: collect at SparkAssignment3.scala:48
+23/06/17 12:10:06 INFO DAGScheduler: Got job 15 (collect at SparkAssignment3.scala:48) with 1 output partitions
+23/06/17 12:10:06 INFO DAGScheduler: Final stage: ResultStage 22 (collect at SparkAssignment3.scala:48)
+23/06/17 12:10:06 INFO DAGScheduler: Parents of final stage: List(ShuffleMapStage 21)
+23/06/17 12:10:06 INFO DAGScheduler: Missing parents: List()
+23/06/17 12:10:06 INFO DAGScheduler: Submitting ResultStage 22 (MapPartitionsRDD[61] at collect at SparkAssignment3.scala:48), which has no missing parents
+23/06/17 12:10:06 INFO MemoryStore: Block broadcast_25 stored as values in memory (estimated size 12.3 KiB, free 765.1 MiB)
+23/06/17 12:10:06 INFO MemoryStore: Block broadcast_25_piece0 stored as bytes in memory (estimated size 6.0 KiB, free 765.1 MiB)
+23/06/17 12:10:06 INFO BlockManagerInfo: Added broadcast_25_piece0 in memory on LAPTOP-CRNI3FFE:54839 (size: 6.0 KiB, free: 767.2 MiB)
+23/06/17 12:10:06 INFO SparkContext: Created broadcast 25 from broadcast at DAGScheduler.scala:1478
+23/06/17 12:10:06 INFO DAGScheduler: Submitting 1 missing tasks from ResultStage 22 (MapPartitionsRDD[61] at collect at SparkAssignment3.scala:48) (first 15 tasks are for partitions Vector(0))
+23/06/17 12:10:06 INFO TaskSchedulerImpl: Adding task set 22.0 with 1 tasks resource profile 0
+23/06/17 12:10:06 INFO TaskSetManager: Starting task 0.0 in stage 22.0 (TID 15) (LAPTOP-CRNI3FFE, executor driver, partition 0, NODE_LOCAL, 4453 bytes) taskResourceAssignments Map()
+23/06/17 12:10:06 INFO Executor: Running task 0.0 in stage 22.0 (TID 15)
+23/06/17 12:10:06 INFO ShuffleBlockFetcherIterator: Getting 1 (66.0 B) non-empty blocks including 1 (66.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+23/06/17 12:10:06 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+23/06/17 12:10:06 INFO Executor: Finished task 0.0 in stage 22.0 (TID 15). 2562 bytes result sent to driver
+23/06/17 12:10:06 INFO TaskSetManager: Finished task 0.0 in stage 22.0 (TID 15) in 31 ms on LAPTOP-CRNI3FFE (executor driver) (1/1)
+23/06/17 12:10:06 INFO TaskSchedulerImpl: Removed TaskSet 22.0, whose tasks have all completed, from pool 
+23/06/17 12:10:06 INFO DAGScheduler: ResultStage 22 (collect at SparkAssignment3.scala:48) finished in 0.031 s
+23/06/17 12:10:06 INFO DAGScheduler: Job 15 is finished. Cancelling potential speculative or zombie tasks for this job
+23/06/17 12:10:06 INFO TaskSchedulerImpl: Killing all running tasks in stage 22: Stage finished
+23/06/17 12:10:06 INFO DAGScheduler: Job 15 finished: collect at SparkAssignment3.scala:48, took 0.035181 s
+23/06/17 12:10:06 INFO CodeGenerator: Code generated in 13.7369 ms
+avg: 40.93621021432837
+23/06/17 12:10:06 INFO FileSourceStrategy: Pushed Filters: 
+23/06/17 12:10:06 INFO FileSourceStrategy: Post-Scan Filters: 
+23/06/17 12:10:06 INFO FileSourceStrategy: Output Data Schema: struct<age: string>
+23/06/17 12:10:06 INFO MemoryStore: Block broadcast_26 stored as values in memory (estimated size 337.3 KiB, free 764.8 MiB)
+23/06/17 12:10:06 INFO MemoryStore: Block broadcast_26_piece0 stored as bytes in memory (estimated size 32.4 KiB, free 764.8 MiB)
+23/06/17 12:10:06 INFO BlockManagerInfo: Added broadcast_26_piece0 in memory on LAPTOP-CRNI3FFE:54839 (size: 32.4 KiB, free: 767.1 MiB)
+23/06/17 12:10:06 INFO SparkContext: Created broadcast 26 from collect at SparkAssignment3.scala:49
+23/06/17 12:10:06 INFO FileSourceScanExec: Planning scan with bin packing, max size: 7945610 bytes, open cost is considered as scanning 4194304 bytes.
+23/06/17 12:10:06 INFO DAGScheduler: Registering RDD 65 (collect at SparkAssignment3.scala:49) as input to shuffle 7
+23/06/17 12:10:06 INFO DAGScheduler: Got map stage job 16 (collect at SparkAssignment3.scala:49) with 1 output partitions
+23/06/17 12:10:06 INFO DAGScheduler: Final stage: ShuffleMapStage 23 (collect at SparkAssignment3.scala:49)
+23/06/17 12:10:06 INFO DAGScheduler: Parents of final stage: List()
+23/06/17 12:10:06 INFO DAGScheduler: Missing parents: List()
+23/06/17 12:10:06 INFO DAGScheduler: Submitting ShuffleMapStage 23 (MapPartitionsRDD[65] at collect at SparkAssignment3.scala:49), which has no missing parents
+23/06/17 12:10:06 INFO MemoryStore: Block broadcast_27 stored as values in memory (estimated size 22.0 KiB, free 764.7 MiB)
+23/06/17 12:10:06 INFO MemoryStore: Block broadcast_27_piece0 stored as bytes in memory (estimated size 11.0 KiB, free 764.7 MiB)
+23/06/17 12:10:06 INFO BlockManagerInfo: Added broadcast_27_piece0 in memory on LAPTOP-CRNI3FFE:54839 (size: 11.0 KiB, free: 767.1 MiB)
+23/06/17 12:10:06 INFO SparkContext: Created broadcast 27 from broadcast at DAGScheduler.scala:1478
+23/06/17 12:10:06 INFO DAGScheduler: Submitting 1 missing tasks from ShuffleMapStage 23 (MapPartitionsRDD[65] at collect at SparkAssignment3.scala:49) (first 15 tasks are for partitions Vector(0))
+23/06/17 12:10:06 INFO TaskSchedulerImpl: Adding task set 23.0 with 1 tasks resource profile 0
+23/06/17 12:10:06 INFO TaskSetManager: Starting task 0.0 in stage 23.0 (TID 16) (LAPTOP-CRNI3FFE, executor driver, partition 0, PROCESS_LOCAL, 4864 bytes) taskResourceAssignments Map()
+23/06/17 12:10:06 INFO Executor: Running task 0.0 in stage 23.0 (TID 16)
+23/06/17 12:10:06 INFO FileScanRDD: Reading File path: file:///C:/JavaDemo/Scala/myproject/input/data.csv, range: 0-3751306, partition values: [empty row]
+23/06/17 12:10:06 INFO CodeGenerator: Code generated in 11.4077 ms
+23/06/17 12:10:06 INFO CodeGenerator: Code generated in 18.8574 ms
+23/06/17 12:10:06 INFO Executor: Finished task 0.0 in stage 23.0 (TID 16). 1997 bytes result sent to driver
+23/06/17 12:10:06 INFO TaskSetManager: Finished task 0.0 in stage 23.0 (TID 16) in 419 ms on LAPTOP-CRNI3FFE (executor driver) (1/1)
+23/06/17 12:10:06 INFO TaskSchedulerImpl: Removed TaskSet 23.0, whose tasks have all completed, from pool 
+23/06/17 12:10:06 INFO DAGScheduler: ShuffleMapStage 23 (collect at SparkAssignment3.scala:49) finished in 0.482 s
+23/06/17 12:10:06 INFO DAGScheduler: looking for newly runnable stages
+23/06/17 12:10:06 INFO DAGScheduler: running: Set()
+23/06/17 12:10:06 INFO DAGScheduler: waiting: Set()
+23/06/17 12:10:06 INFO DAGScheduler: failed: Set()
+23/06/17 12:10:06 INFO SparkContext: Starting job: collect at SparkAssignment3.scala:49
+23/06/17 12:10:06 INFO DAGScheduler: Got job 17 (collect at SparkAssignment3.scala:49) with 1 output partitions
+23/06/17 12:10:06 INFO DAGScheduler: Final stage: ResultStage 25 (collect at SparkAssignment3.scala:49)
+23/06/17 12:10:06 INFO DAGScheduler: Parents of final stage: List(ShuffleMapStage 24)
+23/06/17 12:10:06 INFO DAGScheduler: Missing parents: List()
+23/06/17 12:10:06 INFO DAGScheduler: Submitting ResultStage 25 (MapPartitionsRDD[68] at collect at SparkAssignment3.scala:49), which has no missing parents
+23/06/17 12:10:06 INFO MemoryStore: Block broadcast_28 stored as values in memory (estimated size 25.4 KiB, free 764.7 MiB)
+23/06/17 12:10:06 INFO MemoryStore: Block broadcast_28_piece0 stored as bytes in memory (estimated size 12.6 KiB, free 764.7 MiB)
+23/06/17 12:10:06 INFO BlockManagerInfo: Added broadcast_28_piece0 in memory on LAPTOP-CRNI3FFE:54839 (size: 12.6 KiB, free: 767.1 MiB)
+23/06/17 12:10:06 INFO SparkContext: Created broadcast 28 from broadcast at DAGScheduler.scala:1478
+23/06/17 12:10:06 INFO DAGScheduler: Submitting 1 missing tasks from ResultStage 25 (MapPartitionsRDD[68] at collect at SparkAssignment3.scala:49) (first 15 tasks are for partitions Vector(0))
+23/06/17 12:10:06 INFO TaskSchedulerImpl: Adding task set 25.0 with 1 tasks resource profile 0
+23/06/17 12:10:06 INFO TaskSetManager: Starting task 0.0 in stage 25.0 (TID 17) (LAPTOP-CRNI3FFE, executor driver, partition 0, NODE_LOCAL, 4453 bytes) taskResourceAssignments Map()
+23/06/17 12:10:06 INFO Executor: Running task 0.0 in stage 25.0 (TID 17)
+23/06/17 12:10:06 INFO ShuffleBlockFetcherIterator: Getting 1 (72.0 B) non-empty blocks including 1 (72.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+23/06/17 12:10:06 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 1 ms
+23/06/17 12:10:06 INFO CodeGenerator: Code generated in 14.4862 ms
+23/06/17 12:10:06 INFO Executor: Finished task 0.0 in stage 25.0 (TID 17). 2884 bytes result sent to driver
+23/06/17 12:10:06 INFO TaskSetManager: Finished task 0.0 in stage 25.0 (TID 17) in 62 ms on LAPTOP-CRNI3FFE (executor driver) (1/1)
+23/06/17 12:10:06 INFO TaskSchedulerImpl: Removed TaskSet 25.0, whose tasks have all completed, from pool 
+23/06/17 12:10:06 INFO DAGScheduler: ResultStage 25 (collect at SparkAssignment3.scala:49) finished in 0.062 s
+23/06/17 12:10:06 INFO DAGScheduler: Job 17 is finished. Cancelling potential speculative or zombie tasks for this job
+23/06/17 12:10:06 INFO TaskSchedulerImpl: Killing all running tasks in stage 25: Stage finished
+23/06/17 12:10:06 INFO DAGScheduler: Job 17 finished: collect at SparkAssignment3.scala:49, took 0.071441 s
+23/06/17 12:10:06 INFO CodeGenerator: Code generated in 24.6325 ms
+min: 18
+23/06/17 12:10:06 INFO FileSourceStrategy: Pushed Filters: 
+23/06/17 12:10:06 INFO FileSourceStrategy: Post-Scan Filters: 
+23/06/17 12:10:06 INFO FileSourceStrategy: Output Data Schema: struct<age: string>
+23/06/17 12:10:06 INFO MemoryStore: Block broadcast_29 stored as values in memory (estimated size 337.3 KiB, free 764.4 MiB)
+23/06/17 12:10:07 INFO MemoryStore: Block broadcast_29_piece0 stored as bytes in memory (estimated size 32.4 KiB, free 764.3 MiB)
+23/06/17 12:10:07 INFO BlockManagerInfo: Added broadcast_29_piece0 in memory on LAPTOP-CRNI3FFE:54839 (size: 32.4 KiB, free: 767.1 MiB)
+23/06/17 12:10:07 INFO SparkContext: Created broadcast 29 from collect at SparkAssignment3.scala:50
+23/06/17 12:10:07 INFO FileSourceScanExec: Planning scan with bin packing, max size: 7945610 bytes, open cost is considered as scanning 4194304 bytes.
+23/06/17 12:10:07 INFO DAGScheduler: Registering RDD 72 (collect at SparkAssignment3.scala:50) as input to shuffle 8
+23/06/17 12:10:07 INFO DAGScheduler: Got map stage job 18 (collect at SparkAssignment3.scala:50) with 1 output partitions
+23/06/17 12:10:07 INFO DAGScheduler: Final stage: ShuffleMapStage 26 (collect at SparkAssignment3.scala:50)
+23/06/17 12:10:07 INFO DAGScheduler: Parents of final stage: List()
+23/06/17 12:10:07 INFO DAGScheduler: Missing parents: List()
+23/06/17 12:10:07 INFO DAGScheduler: Submitting ShuffleMapStage 26 (MapPartitionsRDD[72] at collect at SparkAssignment3.scala:50), which has no missing parents
+23/06/17 12:10:07 INFO MemoryStore: Block broadcast_30 stored as values in memory (estimated size 22.0 KiB, free 764.3 MiB)
+23/06/17 12:10:07 INFO MemoryStore: Block broadcast_30_piece0 stored as bytes in memory (estimated size 11.0 KiB, free 764.3 MiB)
+23/06/17 12:10:07 INFO BlockManagerInfo: Added broadcast_30_piece0 in memory on LAPTOP-CRNI3FFE:54839 (size: 11.0 KiB, free: 767.1 MiB)
+23/06/17 12:10:07 INFO SparkContext: Created broadcast 30 from broadcast at DAGScheduler.scala:1478
+23/06/17 12:10:07 INFO DAGScheduler: Submitting 1 missing tasks from ShuffleMapStage 26 (MapPartitionsRDD[72] at collect at SparkAssignment3.scala:50) (first 15 tasks are for partitions Vector(0))
+23/06/17 12:10:07 INFO TaskSchedulerImpl: Adding task set 26.0 with 1 tasks resource profile 0
+23/06/17 12:10:07 INFO TaskSetManager: Starting task 0.0 in stage 26.0 (TID 18) (LAPTOP-CRNI3FFE, executor driver, partition 0, PROCESS_LOCAL, 4864 bytes) taskResourceAssignments Map()
+23/06/17 12:10:07 INFO Executor: Running task 0.0 in stage 26.0 (TID 18)
+23/06/17 12:10:07 INFO FileScanRDD: Reading File path: file:///C:/JavaDemo/Scala/myproject/input/data.csv, range: 0-3751306, partition values: [empty row]
+23/06/17 12:10:07 INFO CodeGenerator: Code generated in 33.3128 ms
+23/06/17 12:10:07 INFO BlockManagerInfo: Removed broadcast_20_piece0 on LAPTOP-CRNI3FFE:54839 in memory (size: 32.4 KiB, free: 767.1 MiB)
+23/06/17 12:10:07 INFO BlockManagerInfo: Removed broadcast_24_piece0 on LAPTOP-CRNI3FFE:54839 in memory (size: 9.2 KiB, free: 767.1 MiB)
+23/06/17 12:10:07 INFO BlockManagerInfo: Removed broadcast_28_piece0 on LAPTOP-CRNI3FFE:54839 in memory (size: 12.6 KiB, free: 767.1 MiB)
+23/06/17 12:10:07 INFO BlockManagerInfo: Removed broadcast_25_piece0 on LAPTOP-CRNI3FFE:54839 in memory (size: 6.0 KiB, free: 767.1 MiB)
+23/06/17 12:10:07 INFO BlockManagerInfo: Removed broadcast_27_piece0 on LAPTOP-CRNI3FFE:54839 in memory (size: 11.0 KiB, free: 767.1 MiB)
+23/06/17 12:10:07 INFO BlockManagerInfo: Removed broadcast_26_piece0 on LAPTOP-CRNI3FFE:54839 in memory (size: 32.4 KiB, free: 767.2 MiB)
+23/06/17 12:10:07 INFO BlockManagerInfo: Removed broadcast_23_piece0 on LAPTOP-CRNI3FFE:54839 in memory (size: 32.4 KiB, free: 767.2 MiB)
+23/06/17 12:10:07 INFO BlockManagerInfo: Removed broadcast_22_piece0 on LAPTOP-CRNI3FFE:54839 in memory (size: 5.5 KiB, free: 767.2 MiB)
+23/06/17 12:10:07 INFO Executor: Finished task 0.0 in stage 26.0 (TID 18). 1997 bytes result sent to driver
+23/06/17 12:10:07 INFO TaskSetManager: Finished task 0.0 in stage 26.0 (TID 18) in 302 ms on LAPTOP-CRNI3FFE (executor driver) (1/1)
+23/06/17 12:10:07 INFO TaskSchedulerImpl: Removed TaskSet 26.0, whose tasks have all completed, from pool 
+23/06/17 12:10:07 INFO DAGScheduler: ShuffleMapStage 26 (collect at SparkAssignment3.scala:50) finished in 0.318 s
+23/06/17 12:10:07 INFO DAGScheduler: looking for newly runnable stages
+23/06/17 12:10:07 INFO DAGScheduler: running: Set()
+23/06/17 12:10:07 INFO DAGScheduler: waiting: Set()
+23/06/17 12:10:07 INFO DAGScheduler: failed: Set()
+23/06/17 12:10:07 INFO SparkContext: Starting job: collect at SparkAssignment3.scala:50
+23/06/17 12:10:07 INFO DAGScheduler: Got job 19 (collect at SparkAssignment3.scala:50) with 1 output partitions
+23/06/17 12:10:07 INFO DAGScheduler: Final stage: ResultStage 28 (collect at SparkAssignment3.scala:50)
+23/06/17 12:10:07 INFO DAGScheduler: Parents of final stage: List(ShuffleMapStage 27)
+23/06/17 12:10:07 INFO DAGScheduler: Missing parents: List()
+23/06/17 12:10:07 INFO DAGScheduler: Submitting ResultStage 28 (MapPartitionsRDD[75] at collect at SparkAssignment3.scala:50), which has no missing parents
+23/06/17 12:10:07 INFO MemoryStore: Block broadcast_31 stored as values in memory (estimated size 25.4 KiB, free 765.5 MiB)
+23/06/17 12:10:07 INFO MemoryStore: Block broadcast_31_piece0 stored as bytes in memory (estimated size 12.6 KiB, free 765.5 MiB)
+23/06/17 12:10:07 INFO BlockManagerInfo: Added broadcast_31_piece0 in memory on LAPTOP-CRNI3FFE:54839 (size: 12.6 KiB, free: 767.2 MiB)
+23/06/17 12:10:07 INFO SparkContext: Created broadcast 31 from broadcast at DAGScheduler.scala:1478
+23/06/17 12:10:07 INFO DAGScheduler: Submitting 1 missing tasks from ResultStage 28 (MapPartitionsRDD[75] at collect at SparkAssignment3.scala:50) (first 15 tasks are for partitions Vector(0))
+23/06/17 12:10:07 INFO TaskSchedulerImpl: Adding task set 28.0 with 1 tasks resource profile 0
+23/06/17 12:10:07 INFO TaskSetManager: Starting task 0.0 in stage 28.0 (TID 19) (LAPTOP-CRNI3FFE, executor driver, partition 0, NODE_LOCAL, 4453 bytes) taskResourceAssignments Map()
+23/06/17 12:10:07 INFO Executor: Running task 0.0 in stage 28.0 (TID 19)
+23/06/17 12:10:07 INFO ShuffleBlockFetcherIterator: Getting 1 (72.0 B) non-empty blocks including 1 (72.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+23/06/17 12:10:07 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+23/06/17 12:10:07 INFO Executor: Finished task 0.0 in stage 28.0 (TID 19). 2841 bytes result sent to driver
+23/06/17 12:10:07 INFO TaskSetManager: Finished task 0.0 in stage 28.0 (TID 19) in 16 ms on LAPTOP-CRNI3FFE (executor driver) (1/1)
+23/06/17 12:10:07 INFO TaskSchedulerImpl: Removed TaskSet 28.0, whose tasks have all completed, from pool 
+23/06/17 12:10:07 INFO DAGScheduler: ResultStage 28 (collect at SparkAssignment3.scala:50) finished in 0.032 s
+23/06/17 12:10:07 INFO DAGScheduler: Job 19 is finished. Cancelling potential speculative or zombie tasks for this job
+23/06/17 12:10:07 INFO TaskSchedulerImpl: Killing all running tasks in stage 28: Stage finished
+23/06/17 12:10:07 INFO DAGScheduler: Job 19 finished: collect at SparkAssignment3.scala:50, took 0.038000 s
+max: 95
+23/06/17 12:10:07 INFO FileSourceStrategy: Pushed Filters: 
+23/06/17 12:10:07 INFO FileSourceStrategy: Post-Scan Filters: 
+23/06/17 12:10:07 INFO FileSourceStrategy: Output Data Schema: struct<balance: string>
+23/06/17 12:10:07 INFO MemoryStore: Block broadcast_32 stored as values in memory (estimated size 337.3 KiB, free 765.2 MiB)
+23/06/17 12:10:07 INFO MemoryStore: Block broadcast_32_piece0 stored as bytes in memory (estimated size 32.4 KiB, free 765.1 MiB)
+23/06/17 12:10:07 INFO BlockManagerInfo: Added broadcast_32_piece0 in memory on LAPTOP-CRNI3FFE:54839 (size: 32.4 KiB, free: 767.2 MiB)
+23/06/17 12:10:07 INFO SparkContext: Created broadcast 32 from collect at SparkAssignment3.scala:54
+23/06/17 12:10:07 INFO FileSourceScanExec: Planning scan with bin packing, max size: 7945610 bytes, open cost is considered as scanning 4194304 bytes.
+23/06/17 12:10:07 INFO DAGScheduler: Registering RDD 79 (collect at SparkAssignment3.scala:54) as input to shuffle 9
+23/06/17 12:10:07 INFO DAGScheduler: Got map stage job 20 (collect at SparkAssignment3.scala:54) with 1 output partitions
+23/06/17 12:10:07 INFO DAGScheduler: Final stage: ShuffleMapStage 29 (collect at SparkAssignment3.scala:54)
+23/06/17 12:10:07 INFO DAGScheduler: Parents of final stage: List()
+23/06/17 12:10:07 INFO DAGScheduler: Missing parents: List()
+23/06/17 12:10:07 INFO DAGScheduler: Submitting ShuffleMapStage 29 (MapPartitionsRDD[79] at collect at SparkAssignment3.scala:54), which has no missing parents
+23/06/17 12:10:07 INFO MemoryStore: Block broadcast_33 stored as values in memory (estimated size 18.3 KiB, free 765.1 MiB)
+23/06/17 12:10:07 INFO MemoryStore: Block broadcast_33_piece0 stored as bytes in memory (estimated size 9.2 KiB, free 765.1 MiB)
+23/06/17 12:10:07 INFO BlockManagerInfo: Added broadcast_33_piece0 in memory on LAPTOP-CRNI3FFE:54839 (size: 9.2 KiB, free: 767.2 MiB)
+23/06/17 12:10:07 INFO SparkContext: Created broadcast 33 from broadcast at DAGScheduler.scala:1478
+23/06/17 12:10:07 INFO DAGScheduler: Submitting 1 missing tasks from ShuffleMapStage 29 (MapPartitionsRDD[79] at collect at SparkAssignment3.scala:54) (first 15 tasks are for partitions Vector(0))
+23/06/17 12:10:07 INFO TaskSchedulerImpl: Adding task set 29.0 with 1 tasks resource profile 0
+23/06/17 12:10:07 INFO TaskSetManager: Starting task 0.0 in stage 29.0 (TID 20) (LAPTOP-CRNI3FFE, executor driver, partition 0, PROCESS_LOCAL, 4864 bytes) taskResourceAssignments Map()
+23/06/17 12:10:07 INFO Executor: Running task 0.0 in stage 29.0 (TID 20)
+23/06/17 12:10:07 INFO FileScanRDD: Reading File path: file:///C:/JavaDemo/Scala/myproject/input/data.csv, range: 0-3751306, partition values: [empty row]
+23/06/17 12:10:07 INFO Executor: Finished task 0.0 in stage 29.0 (TID 20). 1876 bytes result sent to driver
+23/06/17 12:10:07 INFO TaskSetManager: Finished task 0.0 in stage 29.0 (TID 20) in 148 ms on LAPTOP-CRNI3FFE (executor driver) (1/1)
+23/06/17 12:10:07 INFO TaskSchedulerImpl: Removed TaskSet 29.0, whose tasks have all completed, from pool 
+23/06/17 12:10:07 INFO DAGScheduler: ShuffleMapStage 29 (collect at SparkAssignment3.scala:54) finished in 0.164 s
+23/06/17 12:10:07 INFO DAGScheduler: looking for newly runnable stages
+23/06/17 12:10:07 INFO DAGScheduler: running: Set()
+23/06/17 12:10:07 INFO DAGScheduler: waiting: Set()
+23/06/17 12:10:07 INFO DAGScheduler: failed: Set()
+23/06/17 12:10:07 INFO SparkContext: Starting job: collect at SparkAssignment3.scala:54
+23/06/17 12:10:07 INFO DAGScheduler: Got job 21 (collect at SparkAssignment3.scala:54) with 1 output partitions
+23/06/17 12:10:07 INFO DAGScheduler: Final stage: ResultStage 31 (collect at SparkAssignment3.scala:54)
+23/06/17 12:10:07 INFO DAGScheduler: Parents of final stage: List(ShuffleMapStage 30)
+23/06/17 12:10:07 INFO DAGScheduler: Missing parents: List()
+23/06/17 12:10:07 INFO DAGScheduler: Submitting ResultStage 31 (MapPartitionsRDD[82] at collect at SparkAssignment3.scala:54), which has no missing parents
+23/06/17 12:10:07 INFO MemoryStore: Block broadcast_34 stored as values in memory (estimated size 12.3 KiB, free 765.1 MiB)
+23/06/17 12:10:07 INFO MemoryStore: Block broadcast_34_piece0 stored as bytes in memory (estimated size 6.0 KiB, free 765.1 MiB)
+23/06/17 12:10:07 INFO BlockManagerInfo: Added broadcast_34_piece0 in memory on LAPTOP-CRNI3FFE:54839 (size: 6.0 KiB, free: 767.2 MiB)
+23/06/17 12:10:07 INFO SparkContext: Created broadcast 34 from broadcast at DAGScheduler.scala:1478
+23/06/17 12:10:07 INFO DAGScheduler: Submitting 1 missing tasks from ResultStage 31 (MapPartitionsRDD[82] at collect at SparkAssignment3.scala:54) (first 15 tasks are for partitions Vector(0))
+23/06/17 12:10:07 INFO TaskSchedulerImpl: Adding task set 31.0 with 1 tasks resource profile 0
+23/06/17 12:10:07 INFO TaskSetManager: Starting task 0.0 in stage 31.0 (TID 21) (LAPTOP-CRNI3FFE, executor driver, partition 0, NODE_LOCAL, 4453 bytes) taskResourceAssignments Map()
+23/06/17 12:10:07 INFO Executor: Running task 0.0 in stage 31.0 (TID 21)
+23/06/17 12:10:07 INFO ShuffleBlockFetcherIterator: Getting 1 (66.0 B) non-empty blocks including 1 (66.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+23/06/17 12:10:07 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+23/06/17 12:10:07 INFO Executor: Finished task 0.0 in stage 31.0 (TID 21). 2562 bytes result sent to driver
+23/06/17 12:10:07 INFO TaskSetManager: Finished task 0.0 in stage 31.0 (TID 21) in 0 ms on LAPTOP-CRNI3FFE (executor driver) (1/1)
+23/06/17 12:10:07 INFO TaskSchedulerImpl: Removed TaskSet 31.0, whose tasks have all completed, from pool 
+23/06/17 12:10:07 INFO DAGScheduler: ResultStage 31 (collect at SparkAssignment3.scala:54) finished in 0.015 s
+23/06/17 12:10:07 INFO DAGScheduler: Job 21 is finished. Cancelling potential speculative or zombie tasks for this job
+23/06/17 12:10:07 INFO TaskSchedulerImpl: Killing all running tasks in stage 31: Stage finished
+23/06/17 12:10:07 INFO DAGScheduler: Job 21 finished: collect at SparkAssignment3.scala:54, took 0.021655 s
+avgerage balance : 1362.2720576850766
+23/06/17 12:10:07 INFO FileSourceStrategy: Pushed Filters: 
+23/06/17 12:10:07 INFO FileSourceStrategy: Post-Scan Filters: 
+23/06/17 12:10:07 INFO FileSourceStrategy: Output Data Schema: struct<balance: string>
+23/06/17 12:10:07 INFO MemoryStore: Block broadcast_35 stored as values in memory (estimated size 337.3 KiB, free 764.7 MiB)
+23/06/17 12:10:07 INFO MemoryStore: Block broadcast_35_piece0 stored as bytes in memory (estimated size 32.4 KiB, free 764.7 MiB)
+23/06/17 12:10:07 INFO BlockManagerInfo: Added broadcast_35_piece0 in memory on LAPTOP-CRNI3FFE:54839 (size: 32.4 KiB, free: 767.1 MiB)
+23/06/17 12:10:07 INFO SparkContext: Created broadcast 35 from collect at SparkAssignment3.scala:56
+23/06/17 12:10:07 INFO FileSourceScanExec: Planning scan with bin packing, max size: 7945610 bytes, open cost is considered as scanning 4194304 bytes.
+23/06/17 12:10:07 INFO SparkContext: Starting job: collect at SparkAssignment3.scala:56
+23/06/17 12:10:07 INFO DAGScheduler: Got job 22 (collect at SparkAssignment3.scala:56) with 1 output partitions
+23/06/17 12:10:07 INFO DAGScheduler: Final stage: ResultStage 32 (collect at SparkAssignment3.scala:56)
+23/06/17 12:10:07 INFO DAGScheduler: Parents of final stage: List()
+23/06/17 12:10:07 INFO DAGScheduler: Missing parents: List()
+23/06/17 12:10:07 INFO DAGScheduler: Submitting ResultStage 32 (MapPartitionsRDD[85] at collect at SparkAssignment3.scala:56), which has no missing parents
+23/06/17 12:10:07 INFO MemoryStore: Block broadcast_36 stored as values in memory (estimated size 10.5 KiB, free 764.7 MiB)
+23/06/17 12:10:07 INFO MemoryStore: Block broadcast_36_piece0 stored as bytes in memory (estimated size 5.8 KiB, free 764.7 MiB)
+23/06/17 12:10:07 INFO BlockManagerInfo: Added broadcast_36_piece0 in memory on LAPTOP-CRNI3FFE:54839 (size: 5.8 KiB, free: 767.1 MiB)
+23/06/17 12:10:07 INFO SparkContext: Created broadcast 36 from broadcast at DAGScheduler.scala:1478
+23/06/17 12:10:07 INFO DAGScheduler: Submitting 1 missing tasks from ResultStage 32 (MapPartitionsRDD[85] at collect at SparkAssignment3.scala:56) (first 15 tasks are for partitions Vector(0))
+23/06/17 12:10:07 INFO TaskSchedulerImpl: Adding task set 32.0 with 1 tasks resource profile 0
+23/06/17 12:10:07 INFO TaskSetManager: Starting task 0.0 in stage 32.0 (TID 22) (LAPTOP-CRNI3FFE, executor driver, partition 0, PROCESS_LOCAL, 4875 bytes) taskResourceAssignments Map()
+23/06/17 12:10:07 INFO Executor: Running task 0.0 in stage 32.0 (TID 22)
+23/06/17 12:10:07 INFO FileScanRDD: Reading File path: file:///C:/JavaDemo/Scala/myproject/input/data.csv, range: 0-3751306, partition values: [empty row]
+23/06/17 12:10:07 INFO Executor: Finished task 0.0 in stage 32.0 (TID 22). 354525 bytes result sent to driver
+23/06/17 12:10:07 INFO TaskSetManager: Finished task 0.0 in stage 32.0 (TID 22) in 111 ms on LAPTOP-CRNI3FFE (executor driver) (1/1)
+23/06/17 12:10:07 INFO TaskSchedulerImpl: Removed TaskSet 32.0, whose tasks have all completed, from pool 
+23/06/17 12:10:07 INFO DAGScheduler: ResultStage 32 (collect at SparkAssignment3.scala:56) finished in 0.113 s
+23/06/17 12:10:07 INFO DAGScheduler: Job 22 is finished. Cancelling potential speculative or zombie tasks for this job
+23/06/17 12:10:07 INFO TaskSchedulerImpl: Killing all running tasks in stage 32: Stage finished
+23/06/17 12:10:07 INFO DAGScheduler: Job 22 finished: collect at SparkAssignment3.scala:56, took 0.124366 s
+The median price is: 2143
+23/06/17 12:10:08 INFO FileSourceStrategy: Pushed Filters: IsNotNull(y),EqualTo(y,yes)
+23/06/17 12:10:08 INFO FileSourceStrategy: Post-Scan Filters: isnotnull(y#32),(y#32 = yes)
+23/06/17 12:10:08 INFO FileSourceStrategy: Output Data Schema: struct<age: string, y: string>
+23/06/17 12:10:08 INFO BlockManagerInfo: Removed broadcast_32_piece0 on LAPTOP-CRNI3FFE:54839 in memory (size: 32.4 KiB, free: 767.2 MiB)
+23/06/17 12:10:08 INFO BlockManagerInfo: Removed broadcast_29_piece0 on LAPTOP-CRNI3FFE:54839 in memory (size: 32.4 KiB, free: 767.2 MiB)
+23/06/17 12:10:08 INFO BlockManagerInfo: Removed broadcast_30_piece0 on LAPTOP-CRNI3FFE:54839 in memory (size: 11.0 KiB, free: 767.2 MiB)
+23/06/17 12:10:08 INFO BlockManagerInfo: Removed broadcast_31_piece0 on LAPTOP-CRNI3FFE:54839 in memory (size: 12.6 KiB, free: 767.2 MiB)
+23/06/17 12:10:08 INFO BlockManagerInfo: Removed broadcast_33_piece0 on LAPTOP-CRNI3FFE:54839 in memory (size: 9.2 KiB, free: 767.2 MiB)
+23/06/17 12:10:08 INFO BlockManagerInfo: Removed broadcast_34_piece0 on LAPTOP-CRNI3FFE:54839 in memory (size: 6.0 KiB, free: 767.2 MiB)
+23/06/17 12:10:08 INFO CodeGenerator: Code generated in 138.0909 ms
+23/06/17 12:10:08 INFO MemoryStore: Block broadcast_37 stored as values in memory (estimated size 337.3 KiB, free 765.2 MiB)
+23/06/17 12:10:08 INFO BlockManagerInfo: Removed broadcast_35_piece0 on LAPTOP-CRNI3FFE:54839 in memory (size: 32.4 KiB, free: 767.3 MiB)
+23/06/17 12:10:08 INFO BlockManagerInfo: Removed broadcast_36_piece0 on LAPTOP-CRNI3FFE:54839 in memory (size: 5.8 KiB, free: 767.3 MiB)
+23/06/17 12:10:08 INFO MemoryStore: Block broadcast_37_piece0 stored as bytes in memory (estimated size 32.4 KiB, free 765.6 MiB)
+23/06/17 12:10:08 INFO BlockManagerInfo: Added broadcast_37_piece0 in memory on LAPTOP-CRNI3FFE:54839 (size: 32.4 KiB, free: 767.2 MiB)
+23/06/17 12:10:08 INFO SparkContext: Created broadcast 37 from show at SparkAssignment3.scala:61
+23/06/17 12:10:08 INFO FileSourceScanExec: Planning scan with bin packing, max size: 7945610 bytes, open cost is considered as scanning 4194304 bytes.
+23/06/17 12:10:08 INFO DAGScheduler: Registering RDD 89 (show at SparkAssignment3.scala:61) as input to shuffle 10
+23/06/17 12:10:08 INFO DAGScheduler: Got map stage job 23 (show at SparkAssignment3.scala:61) with 1 output partitions
+23/06/17 12:10:08 INFO DAGScheduler: Final stage: ShuffleMapStage 33 (show at SparkAssignment3.scala:61)
+23/06/17 12:10:08 INFO DAGScheduler: Parents of final stage: List()
+23/06/17 12:10:08 INFO DAGScheduler: Missing parents: List()
+23/06/17 12:10:08 INFO DAGScheduler: Submitting ShuffleMapStage 33 (MapPartitionsRDD[89] at show at SparkAssignment3.scala:61), which has no missing parents
+23/06/17 12:10:08 INFO MemoryStore: Block broadcast_38 stored as values in memory (estimated size 36.7 KiB, free 765.5 MiB)
+23/06/17 12:10:08 INFO MemoryStore: Block broadcast_38_piece0 stored as bytes in memory (estimated size 17.6 KiB, free 765.5 MiB)
+23/06/17 12:10:08 INFO BlockManagerInfo: Added broadcast_38_piece0 in memory on LAPTOP-CRNI3FFE:54839 (size: 17.6 KiB, free: 767.2 MiB)
+23/06/17 12:10:08 INFO SparkContext: Created broadcast 38 from broadcast at DAGScheduler.scala:1478
+23/06/17 12:10:08 INFO DAGScheduler: Submitting 1 missing tasks from ShuffleMapStage 33 (MapPartitionsRDD[89] at show at SparkAssignment3.scala:61) (first 15 tasks are for partitions Vector(0))
+23/06/17 12:10:08 INFO TaskSchedulerImpl: Adding task set 33.0 with 1 tasks resource profile 0
+23/06/17 12:10:08 INFO TaskSetManager: Starting task 0.0 in stage 33.0 (TID 23) (LAPTOP-CRNI3FFE, executor driver, partition 0, PROCESS_LOCAL, 4864 bytes) taskResourceAssignments Map()
+23/06/17 12:10:08 INFO Executor: Running task 0.0 in stage 33.0 (TID 23)
+23/06/17 12:10:08 INFO CodeGenerator: Code generated in 31.2369 ms
+23/06/17 12:10:08 INFO CodeGenerator: Code generated in 11.6341 ms
+23/06/17 12:10:08 INFO CodeGenerator: Code generated in 15.1634 ms
+23/06/17 12:10:08 INFO FileScanRDD: Reading File path: file:///C:/JavaDemo/Scala/myproject/input/data.csv, range: 0-3751306, partition values: [empty row]
+23/06/17 12:10:08 INFO CodeGenerator: Code generated in 14.0777 ms
+23/06/17 12:10:08 INFO CodeGenerator: Code generated in 12.5951 ms
+23/06/17 12:10:09 INFO Executor: Finished task 0.0 in stage 33.0 (TID 23). 2778 bytes result sent to driver
+23/06/17 12:10:09 INFO TaskSetManager: Finished task 0.0 in stage 33.0 (TID 23) in 632 ms on LAPTOP-CRNI3FFE (executor driver) (1/1)
+23/06/17 12:10:09 INFO TaskSchedulerImpl: Removed TaskSet 33.0, whose tasks have all completed, from pool 
+23/06/17 12:10:09 INFO DAGScheduler: ShuffleMapStage 33 (show at SparkAssignment3.scala:61) finished in 0.648 s
+23/06/17 12:10:09 INFO DAGScheduler: looking for newly runnable stages
+23/06/17 12:10:09 INFO DAGScheduler: running: Set()
+23/06/17 12:10:09 INFO DAGScheduler: waiting: Set()
+23/06/17 12:10:09 INFO DAGScheduler: failed: Set()
+23/06/17 12:10:09 INFO ShufflePartitionsUtil: For shuffle(10), advisory target size: 67108864, actual target size 1048576, minimum partition size: 1048576
+23/06/17 12:10:09 INFO CodeGenerator: Code generated in 21.4509 ms
+23/06/17 12:10:09 INFO HashAggregateExec: spark.sql.codegen.aggregate.map.twolevel.enabled is set to true, but current version of codegened fast hashmap does not support this aggregate.
+23/06/17 12:10:09 INFO CodeGenerator: Code generated in 24.9639 ms
+23/06/17 12:10:09 INFO SparkContext: Starting job: show at SparkAssignment3.scala:61
+23/06/17 12:10:09 INFO DAGScheduler: Got job 24 (show at SparkAssignment3.scala:61) with 1 output partitions
+23/06/17 12:10:09 INFO DAGScheduler: Final stage: ResultStage 35 (show at SparkAssignment3.scala:61)
+23/06/17 12:10:09 INFO DAGScheduler: Parents of final stage: List(ShuffleMapStage 34)
+23/06/17 12:10:09 INFO DAGScheduler: Missing parents: List()
+23/06/17 12:10:09 INFO DAGScheduler: Submitting ResultStage 35 (MapPartitionsRDD[93] at show at SparkAssignment3.scala:61), which has no missing parents
+23/06/17 12:10:09 INFO MemoryStore: Block broadcast_39 stored as values in memory (estimated size 38.0 KiB, free 765.5 MiB)
+23/06/17 12:10:09 INFO MemoryStore: Block broadcast_39_piece0 stored as bytes in memory (estimated size 18.5 KiB, free 765.4 MiB)
+23/06/17 12:10:09 INFO BlockManagerInfo: Added broadcast_39_piece0 in memory on LAPTOP-CRNI3FFE:54839 (size: 18.5 KiB, free: 767.2 MiB)
+23/06/17 12:10:09 INFO SparkContext: Created broadcast 39 from broadcast at DAGScheduler.scala:1478
+23/06/17 12:10:09 INFO DAGScheduler: Submitting 1 missing tasks from ResultStage 35 (MapPartitionsRDD[93] at show at SparkAssignment3.scala:61) (first 15 tasks are for partitions Vector(0))
+23/06/17 12:10:09 INFO TaskSchedulerImpl: Adding task set 35.0 with 1 tasks resource profile 0
+23/06/17 12:10:09 INFO TaskSetManager: Starting task 0.0 in stage 35.0 (TID 24) (LAPTOP-CRNI3FFE, executor driver, partition 0, NODE_LOCAL, 4453 bytes) taskResourceAssignments Map()
+23/06/17 12:10:09 INFO Executor: Running task 0.0 in stage 35.0 (TID 24)
+23/06/17 12:10:09 INFO ShuffleBlockFetcherIterator: Getting 1 (4.5 KiB) non-empty blocks including 1 (4.5 KiB) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+23/06/17 12:10:09 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 2 ms
+23/06/17 12:10:09 INFO Executor: Finished task 0.0 in stage 35.0 (TID 24). 7036 bytes result sent to driver
+23/06/17 12:10:09 INFO TaskSetManager: Finished task 0.0 in stage 35.0 (TID 24) in 125 ms on LAPTOP-CRNI3FFE (executor driver) (1/1)
+23/06/17 12:10:09 INFO TaskSchedulerImpl: Removed TaskSet 35.0, whose tasks have all completed, from pool 
+23/06/17 12:10:09 INFO DAGScheduler: ResultStage 35 (show at SparkAssignment3.scala:61) finished in 0.172 s
+23/06/17 12:10:09 INFO DAGScheduler: Job 24 is finished. Cancelling potential speculative or zombie tasks for this job
+23/06/17 12:10:09 INFO TaskSchedulerImpl: Killing all running tasks in stage 35: Stage finished
+23/06/17 12:10:09 INFO DAGScheduler: Job 24 finished: show at SparkAssignment3.scala:61, took 0.181378 s
+23/06/17 12:10:09 INFO CodeGenerator: Code generated in 17.302 ms
+23/06/17 12:10:09 INFO CodeGenerator: Code generated in 10.6984 ms
++---+------+
+|age|number|
++---+------+
+| 32|   221|
+| 30|   217|
+| 33|   210|
+| 35|   209|
+| 31|   206|
+| 34|   198|
+| 36|   195|
+| 29|   171|
+| 37|   170|
+| 28|   162|
+| 38|   144|
+| 39|   143|
+| 27|   141|
+| 26|   134|
+| 41|   120|
+| 46|   118|
+| 40|   116|
+| 47|   113|
+| 25|   113|
+| 42|   111|
++---+------+
+only showing top 20 rows
+
+23/06/17 12:10:09 INFO FileSourceStrategy: Pushed Filters: IsNotNull(y),EqualTo(y,yes)
+23/06/17 12:10:09 INFO FileSourceStrategy: Post-Scan Filters: isnotnull(y#32),(y#32 = yes)
+23/06/17 12:10:09 INFO FileSourceStrategy: Output Data Schema: struct<marital: string, y: string>
+23/06/17 12:10:09 INFO MemoryStore: Block broadcast_40 stored as values in memory (estimated size 337.3 KiB, free 765.1 MiB)
+23/06/17 12:10:09 INFO MemoryStore: Block broadcast_40_piece0 stored as bytes in memory (estimated size 32.4 KiB, free 765.1 MiB)
+23/06/17 12:10:09 INFO BlockManagerInfo: Added broadcast_40_piece0 in memory on LAPTOP-CRNI3FFE:54839 (size: 32.4 KiB, free: 767.2 MiB)
+23/06/17 12:10:09 INFO SparkContext: Created broadcast 40 from show at SparkAssignment3.scala:65
+23/06/17 12:10:09 INFO FileSourceScanExec: Planning scan with bin packing, max size: 7945610 bytes, open cost is considered as scanning 4194304 bytes.
+23/06/17 12:10:09 INFO DAGScheduler: Registering RDD 97 (show at SparkAssignment3.scala:65) as input to shuffle 11
+23/06/17 12:10:09 INFO DAGScheduler: Got map stage job 25 (show at SparkAssignment3.scala:65) with 1 output partitions
+23/06/17 12:10:09 INFO DAGScheduler: Final stage: ShuffleMapStage 36 (show at SparkAssignment3.scala:65)
+23/06/17 12:10:09 INFO DAGScheduler: Parents of final stage: List()
+23/06/17 12:10:09 INFO DAGScheduler: Missing parents: List()
+23/06/17 12:10:09 INFO DAGScheduler: Submitting ShuffleMapStage 36 (MapPartitionsRDD[97] at show at SparkAssignment3.scala:65), which has no missing parents
+23/06/17 12:10:09 INFO MemoryStore: Block broadcast_41 stored as values in memory (estimated size 36.7 KiB, free 765.0 MiB)
+23/06/17 12:10:09 INFO MemoryStore: Block broadcast_41_piece0 stored as bytes in memory (estimated size 17.6 KiB, free 765.0 MiB)
+23/06/17 12:10:09 INFO BlockManagerInfo: Added broadcast_41_piece0 in memory on LAPTOP-CRNI3FFE:54839 (size: 17.6 KiB, free: 767.1 MiB)
+23/06/17 12:10:09 INFO SparkContext: Created broadcast 41 from broadcast at DAGScheduler.scala:1478
+23/06/17 12:10:09 INFO DAGScheduler: Submitting 1 missing tasks from ShuffleMapStage 36 (MapPartitionsRDD[97] at show at SparkAssignment3.scala:65) (first 15 tasks are for partitions Vector(0))
+23/06/17 12:10:09 INFO TaskSchedulerImpl: Adding task set 36.0 with 1 tasks resource profile 0
+23/06/17 12:10:09 INFO TaskSetManager: Starting task 0.0 in stage 36.0 (TID 25) (LAPTOP-CRNI3FFE, executor driver, partition 0, PROCESS_LOCAL, 4864 bytes) taskResourceAssignments Map()
+23/06/17 12:10:09 INFO Executor: Running task 0.0 in stage 36.0 (TID 25)
+23/06/17 12:10:09 INFO FileScanRDD: Reading File path: file:///C:/JavaDemo/Scala/myproject/input/data.csv, range: 0-3751306, partition values: [empty row]
+23/06/17 12:10:11 INFO BlockManagerInfo: Removed broadcast_2_piece0 on LAPTOP-CRNI3FFE:54839 in memory (size: 32.4 KiB, free: 767.2 MiB)
+23/06/17 12:10:11 INFO BlockManagerInfo: Removed broadcast_37_piece0 on LAPTOP-CRNI3FFE:54839 in memory (size: 32.4 KiB, free: 767.2 MiB)
+23/06/17 12:10:11 INFO BlockManagerInfo: Removed broadcast_38_piece0 on LAPTOP-CRNI3FFE:54839 in memory (size: 17.6 KiB, free: 767.2 MiB)
+23/06/17 12:10:11 INFO BlockManagerInfo: Removed broadcast_39_piece0 on LAPTOP-CRNI3FFE:54839 in memory (size: 18.5 KiB, free: 767.2 MiB)
+23/06/17 12:10:11 INFO BlockManagerInfo: Removed broadcast_1_piece0 on LAPTOP-CRNI3FFE:54839 in memory (size: 5.8 KiB, free: 767.2 MiB)
+23/06/17 12:10:11 INFO BlockManagerInfo: Removed broadcast_6_piece0 on LAPTOP-CRNI3FFE:54839 in memory (size: 8.6 KiB, free: 767.3 MiB)
+23/06/17 12:10:11 INFO BlockManagerInfo: Removed broadcast_0_piece0 on LAPTOP-CRNI3FFE:54839 in memory (size: 32.4 KiB, free: 767.3 MiB)
+23/06/17 12:10:11 INFO BlockManagerInfo: Removed broadcast_5_piece0 on LAPTOP-CRNI3FFE:54839 in memory (size: 32.4 KiB, free: 767.3 MiB)
+23/06/17 12:10:11 INFO BlockManagerInfo: Removed broadcast_14_piece0 on LAPTOP-CRNI3FFE:54839 in memory (size: 32.4 KiB, free: 767.4 MiB)
+23/06/17 12:10:11 INFO Executor: Finished task 0.0 in stage 36.0 (TID 25). 2778 bytes result sent to driver
+23/06/17 12:10:11 INFO TaskSetManager: Finished task 0.0 in stage 36.0 (TID 25) in 1477 ms on LAPTOP-CRNI3FFE (executor driver) (1/1)
+23/06/17 12:10:11 INFO TaskSchedulerImpl: Removed TaskSet 36.0, whose tasks have all completed, from pool 
+23/06/17 12:10:11 INFO DAGScheduler: ShuffleMapStage 36 (show at SparkAssignment3.scala:65) finished in 1.493 s
+23/06/17 12:10:11 INFO DAGScheduler: looking for newly runnable stages
+23/06/17 12:10:11 INFO DAGScheduler: running: Set()
+23/06/17 12:10:11 INFO DAGScheduler: waiting: Set()
+23/06/17 12:10:11 INFO DAGScheduler: failed: Set()
+23/06/17 12:10:11 INFO ShufflePartitionsUtil: For shuffle(11), advisory target size: 67108864, actual target size 1048576, minimum partition size: 1048576
+23/06/17 12:10:11 INFO HashAggregateExec: spark.sql.codegen.aggregate.map.twolevel.enabled is set to true, but current version of codegened fast hashmap does not support this aggregate.
+23/06/17 12:10:11 INFO SparkContext: Starting job: show at SparkAssignment3.scala:65
+23/06/17 12:10:11 INFO DAGScheduler: Got job 26 (show at SparkAssignment3.scala:65) with 1 output partitions
+23/06/17 12:10:11 INFO DAGScheduler: Final stage: ResultStage 38 (show at SparkAssignment3.scala:65)
+23/06/17 12:10:11 INFO DAGScheduler: Parents of final stage: List(ShuffleMapStage 37)
+23/06/17 12:10:11 INFO DAGScheduler: Missing parents: List()
+23/06/17 12:10:11 INFO DAGScheduler: Submitting ResultStage 38 (MapPartitionsRDD[101] at show at SparkAssignment3.scala:65), which has no missing parents
+23/06/17 12:10:11 INFO MemoryStore: Block broadcast_42 stored as values in memory (estimated size 38.0 KiB, free 766.9 MiB)
+23/06/17 12:10:11 INFO MemoryStore: Block broadcast_42_piece0 stored as bytes in memory (estimated size 18.5 KiB, free 766.9 MiB)
+23/06/17 12:10:11 INFO BlockManagerInfo: Added broadcast_42_piece0 in memory on LAPTOP-CRNI3FFE:54839 (size: 18.5 KiB, free: 767.3 MiB)
+23/06/17 12:10:11 INFO SparkContext: Created broadcast 42 from broadcast at DAGScheduler.scala:1478
+23/06/17 12:10:11 INFO DAGScheduler: Submitting 1 missing tasks from ResultStage 38 (MapPartitionsRDD[101] at show at SparkAssignment3.scala:65) (first 15 tasks are for partitions Vector(0))
+23/06/17 12:10:11 INFO TaskSchedulerImpl: Adding task set 38.0 with 1 tasks resource profile 0
+23/06/17 12:10:11 INFO TaskSetManager: Starting task 0.0 in stage 38.0 (TID 26) (LAPTOP-CRNI3FFE, executor driver, partition 0, NODE_LOCAL, 4453 bytes) taskResourceAssignments Map()
+23/06/17 12:10:11 INFO Executor: Running task 0.0 in stage 38.0 (TID 26)
+23/06/17 12:10:11 INFO ShuffleBlockFetcherIterator: Getting 1 (216.0 B) non-empty blocks including 1 (216.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+23/06/17 12:10:11 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+23/06/17 12:10:11 INFO Executor: Finished task 0.0 in stage 38.0 (TID 26). 6063 bytes result sent to driver
+23/06/17 12:10:11 INFO TaskSetManager: Finished task 0.0 in stage 38.0 (TID 26) in 32 ms on LAPTOP-CRNI3FFE (executor driver) (1/1)
+23/06/17 12:10:11 INFO TaskSchedulerImpl: Removed TaskSet 38.0, whose tasks have all completed, from pool 
+23/06/17 12:10:11 INFO DAGScheduler: ResultStage 38 (show at SparkAssignment3.scala:65) finished in 0.032 s
+23/06/17 12:10:11 INFO DAGScheduler: Job 26 is finished. Cancelling potential speculative or zombie tasks for this job
+23/06/17 12:10:11 INFO TaskSchedulerImpl: Killing all running tasks in stage 38: Stage finished
+23/06/17 12:10:11 INFO DAGScheduler: Job 26 finished: show at SparkAssignment3.scala:65, took 0.040541 s
++--------+------+
+| marital|number|
++--------+------+
+| married|  2755|
+|  single|  1912|
+|divorced|   622|
++--------+------+
+
+23/06/17 12:10:11 INFO FileSourceStrategy: Pushed Filters: IsNotNull(y),EqualTo(y,yes)
+23/06/17 12:10:11 INFO FileSourceStrategy: Post-Scan Filters: isnotnull(y#32),(y#32 = yes)
+23/06/17 12:10:11 INFO FileSourceStrategy: Output Data Schema: struct<age: string, marital: string, y: string ... 1 more fields>
+23/06/17 12:10:11 INFO CodeGenerator: Code generated in 57.3621 ms
+23/06/17 12:10:11 INFO MemoryStore: Block broadcast_43 stored as values in memory (estimated size 337.3 KiB, free 766.6 MiB)
+23/06/17 12:10:11 INFO MemoryStore: Block broadcast_43_piece0 stored as bytes in memory (estimated size 32.4 KiB, free 766.6 MiB)
+23/06/17 12:10:11 INFO BlockManagerInfo: Added broadcast_43_piece0 in memory on LAPTOP-CRNI3FFE:54839 (size: 32.4 KiB, free: 767.3 MiB)
+23/06/17 12:10:11 INFO SparkContext: Created broadcast 43 from show at SparkAssignment3.scala:69
+23/06/17 12:10:11 INFO FileSourceScanExec: Planning scan with bin packing, max size: 7945610 bytes, open cost is considered as scanning 4194304 bytes.
+23/06/17 12:10:11 INFO DAGScheduler: Registering RDD 105 (show at SparkAssignment3.scala:69) as input to shuffle 12
+23/06/17 12:10:11 INFO DAGScheduler: Got map stage job 27 (show at SparkAssignment3.scala:69) with 1 output partitions
+23/06/17 12:10:11 INFO DAGScheduler: Final stage: ShuffleMapStage 39 (show at SparkAssignment3.scala:69)
+23/06/17 12:10:11 INFO DAGScheduler: Parents of final stage: List()
+23/06/17 12:10:11 INFO DAGScheduler: Missing parents: List()
+23/06/17 12:10:11 INFO DAGScheduler: Submitting ShuffleMapStage 39 (MapPartitionsRDD[105] at show at SparkAssignment3.scala:69), which has no missing parents
+23/06/17 12:10:11 INFO MemoryStore: Block broadcast_44 stored as values in memory (estimated size 38.1 KiB, free 766.5 MiB)
+23/06/17 12:10:11 INFO MemoryStore: Block broadcast_44_piece0 stored as bytes in memory (estimated size 18.1 KiB, free 766.5 MiB)
+23/06/17 12:10:11 INFO BlockManagerInfo: Added broadcast_44_piece0 in memory on LAPTOP-CRNI3FFE:54839 (size: 18.1 KiB, free: 767.3 MiB)
+23/06/17 12:10:11 INFO SparkContext: Created broadcast 44 from broadcast at DAGScheduler.scala:1478
+23/06/17 12:10:11 INFO DAGScheduler: Submitting 1 missing tasks from ShuffleMapStage 39 (MapPartitionsRDD[105] at show at SparkAssignment3.scala:69) (first 15 tasks are for partitions Vector(0))
+23/06/17 12:10:11 INFO TaskSchedulerImpl: Adding task set 39.0 with 1 tasks resource profile 0
+23/06/17 12:10:11 INFO TaskSetManager: Starting task 0.0 in stage 39.0 (TID 27) (LAPTOP-CRNI3FFE, executor driver, partition 0, PROCESS_LOCAL, 4864 bytes) taskResourceAssignments Map()
+23/06/17 12:10:11 INFO Executor: Running task 0.0 in stage 39.0 (TID 27)
+23/06/17 12:10:11 INFO CodeGenerator: Code generated in 14.8484 ms
+23/06/17 12:10:11 INFO FileScanRDD: Reading File path: file:///C:/JavaDemo/Scala/myproject/input/data.csv, range: 0-3751306, partition values: [empty row]
+23/06/17 12:10:11 INFO CodeGenerator: Code generated in 8.9571 ms
+23/06/17 12:10:11 INFO CodeGenerator: Code generated in 8.6399 ms
+23/06/17 12:10:12 INFO Executor: Finished task 0.0 in stage 39.0 (TID 27). 2735 bytes result sent to driver
+23/06/17 12:10:12 INFO TaskSetManager: Finished task 0.0 in stage 39.0 (TID 27) in 661 ms on LAPTOP-CRNI3FFE (executor driver) (1/1)
+23/06/17 12:10:12 INFO TaskSchedulerImpl: Removed TaskSet 39.0, whose tasks have all completed, from pool 
+23/06/17 12:10:12 INFO DAGScheduler: ShuffleMapStage 39 (show at SparkAssignment3.scala:69) finished in 0.661 s
+23/06/17 12:10:12 INFO DAGScheduler: looking for newly runnable stages
+23/06/17 12:10:12 INFO DAGScheduler: running: Set()
+23/06/17 12:10:12 INFO DAGScheduler: waiting: Set()
+23/06/17 12:10:12 INFO DAGScheduler: failed: Set()
+23/06/17 12:10:12 INFO ShufflePartitionsUtil: For shuffle(12), advisory target size: 67108864, actual target size 1048576, minimum partition size: 1048576
+23/06/17 12:10:12 INFO CodeGenerator: Code generated in 7.0416 ms
+23/06/17 12:10:12 INFO HashAggregateExec: spark.sql.codegen.aggregate.map.twolevel.enabled is set to true, but current version of codegened fast hashmap does not support this aggregate.
+23/06/17 12:10:12 INFO CodeGenerator: Code generated in 15.3698 ms
+23/06/17 12:10:12 INFO SparkContext: Starting job: show at SparkAssignment3.scala:69
+23/06/17 12:10:12 INFO DAGScheduler: Got job 28 (show at SparkAssignment3.scala:69) with 1 output partitions
+23/06/17 12:10:12 INFO DAGScheduler: Final stage: ResultStage 41 (show at SparkAssignment3.scala:69)
+23/06/17 12:10:12 INFO DAGScheduler: Parents of final stage: List(ShuffleMapStage 40)
+23/06/17 12:10:12 INFO DAGScheduler: Missing parents: List()
+23/06/17 12:10:12 INFO DAGScheduler: Submitting ResultStage 41 (MapPartitionsRDD[109] at show at SparkAssignment3.scala:69), which has no missing parents
+23/06/17 12:10:12 INFO MemoryStore: Block broadcast_45 stored as values in memory (estimated size 39.2 KiB, free 766.5 MiB)
+23/06/17 12:10:12 INFO MemoryStore: Block broadcast_45_piece0 stored as bytes in memory (estimated size 18.9 KiB, free 766.5 MiB)
+23/06/17 12:10:12 INFO BlockManagerInfo: Added broadcast_45_piece0 in memory on LAPTOP-CRNI3FFE:54839 (size: 18.9 KiB, free: 767.3 MiB)
+23/06/17 12:10:12 INFO SparkContext: Created broadcast 45 from broadcast at DAGScheduler.scala:1478
+23/06/17 12:10:12 INFO DAGScheduler: Submitting 1 missing tasks from ResultStage 41 (MapPartitionsRDD[109] at show at SparkAssignment3.scala:69) (first 15 tasks are for partitions Vector(0))
+23/06/17 12:10:12 INFO TaskSchedulerImpl: Adding task set 41.0 with 1 tasks resource profile 0
+23/06/17 12:10:12 INFO TaskSetManager: Starting task 0.0 in stage 41.0 (TID 28) (LAPTOP-CRNI3FFE, executor driver, partition 0, NODE_LOCAL, 4453 bytes) taskResourceAssignments Map()
+23/06/17 12:10:12 INFO Executor: Running task 0.0 in stage 41.0 (TID 28)
+23/06/17 12:10:12 INFO ShuffleBlockFetcherIterator: Getting 1 (12.3 KiB) non-empty blocks including 1 (12.3 KiB) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+23/06/17 12:10:12 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 1 ms
+23/06/17 12:10:12 INFO Executor: Finished task 0.0 in stage 41.0 (TID 28). 7286 bytes result sent to driver
+23/06/17 12:10:12 INFO TaskSetManager: Finished task 0.0 in stage 41.0 (TID 28) in 47 ms on LAPTOP-CRNI3FFE (executor driver) (1/1)
+23/06/17 12:10:12 INFO TaskSchedulerImpl: Removed TaskSet 41.0, whose tasks have all completed, from pool 
+23/06/17 12:10:12 INFO DAGScheduler: ResultStage 41 (show at SparkAssignment3.scala:69) finished in 0.062 s
+23/06/17 12:10:12 INFO DAGScheduler: Job 28 is finished. Cancelling potential speculative or zombie tasks for this job
+23/06/17 12:10:12 INFO TaskSchedulerImpl: Killing all running tasks in stage 41: Stage finished
+23/06/17 12:10:12 INFO DAGScheduler: Job 28 finished: show at SparkAssignment3.scala:69, took 0.068535 s
+23/06/17 12:10:12 INFO CodeGenerator: Code generated in 14.3242 ms
+23/06/17 12:10:12 INFO CodeGenerator: Code generated in 12.5401 ms
++---+-------+------+
+|age|marital|number|
++---+-------+------+
+| 30| single|   151|
+| 28| single|   138|
+| 29| single|   133|
+| 32| single|   124|
+| 26| single|   121|
+| 34|married|   118|
+| 31| single|   111|
+| 27| single|   110|
+| 35|married|   101|
+| 36|married|   100|
+| 25| single|    99|
+| 37|married|    98|
+| 33|married|    97|
+| 33| single|    97|
+| 32|married|    87|
+| 39|married|    87|
+| 38|married|    86|
+| 35| single|    84|
+| 47|married|    83|
+| 46|married|    80|
++---+-------+------+
+only showing top 20 rows
+
+23/06/17 12:10:12 INFO FileSourceStrategy: Pushed Filters: 
+23/06/17 12:10:12 INFO FileSourceStrategy: Post-Scan Filters: 
+23/06/17 12:10:12 INFO FileSourceStrategy: Output Data Schema: struct<age: string, job: string, marital: string, education: string, default: string ... 15 more fields>
+23/06/17 12:10:12 INFO CodeGenerator: Code generated in 61.1961 ms
+23/06/17 12:10:12 INFO MemoryStore: Block broadcast_46 stored as values in memory (estimated size 337.3 KiB, free 766.1 MiB)
+23/06/17 12:10:12 INFO MemoryStore: Block broadcast_46_piece0 stored as bytes in memory (estimated size 32.4 KiB, free 766.1 MiB)
+23/06/17 12:10:12 INFO BlockManagerInfo: Added broadcast_46_piece0 in memory on LAPTOP-CRNI3FFE:54839 (size: 32.4 KiB, free: 767.2 MiB)
+23/06/17 12:10:12 INFO SparkContext: Created broadcast 46 from show at SparkAssignment3.scala:88
+23/06/17 12:10:12 INFO FileSourceScanExec: Planning scan with bin packing, max size: 7945610 bytes, open cost is considered as scanning 4194304 bytes.
+23/06/17 12:10:12 INFO SparkContext: Starting job: show at SparkAssignment3.scala:88
+23/06/17 12:10:12 INFO DAGScheduler: Got job 29 (show at SparkAssignment3.scala:88) with 1 output partitions
+23/06/17 12:10:12 INFO DAGScheduler: Final stage: ResultStage 42 (show at SparkAssignment3.scala:88)
+23/06/17 12:10:12 INFO DAGScheduler: Parents of final stage: List()
+23/06/17 12:10:12 INFO DAGScheduler: Missing parents: List()
+23/06/17 12:10:12 INFO DAGScheduler: Submitting ResultStage 42 (MapPartitionsRDD[113] at show at SparkAssignment3.scala:88), which has no missing parents
+23/06/17 12:10:12 INFO MemoryStore: Block broadcast_47 stored as values in memory (estimated size 33.1 KiB, free 766.1 MiB)
+23/06/17 12:10:12 INFO MemoryStore: Block broadcast_47_piece0 stored as bytes in memory (estimated size 14.3 KiB, free 766.1 MiB)
+23/06/17 12:10:12 INFO BlockManagerInfo: Added broadcast_47_piece0 in memory on LAPTOP-CRNI3FFE:54839 (size: 14.3 KiB, free: 767.2 MiB)
+23/06/17 12:10:12 INFO SparkContext: Created broadcast 47 from broadcast at DAGScheduler.scala:1478
+23/06/17 12:10:12 INFO DAGScheduler: Submitting 1 missing tasks from ResultStage 42 (MapPartitionsRDD[113] at show at SparkAssignment3.scala:88) (first 15 tasks are for partitions Vector(0))
+23/06/17 12:10:12 INFO TaskSchedulerImpl: Adding task set 42.0 with 1 tasks resource profile 0
+23/06/17 12:10:12 INFO TaskSetManager: Starting task 0.0 in stage 42.0 (TID 29) (LAPTOP-CRNI3FFE, executor driver, partition 0, PROCESS_LOCAL, 4875 bytes) taskResourceAssignments Map()
+23/06/17 12:10:12 INFO Executor: Running task 0.0 in stage 42.0 (TID 29)
+23/06/17 12:10:12 INFO FileScanRDD: Reading File path: file:///C:/JavaDemo/Scala/myproject/input/data.csv, range: 0-3751306, partition values: [empty row]
+23/06/17 12:10:12 INFO CodeGenerator: Code generated in 32.1773 ms
+23/06/17 12:10:13 INFO Executor: Finished task 0.0 in stage 42.0 (TID 29). 3742 bytes result sent to driver
+23/06/17 12:10:13 INFO TaskSetManager: Finished task 0.0 in stage 42.0 (TID 29) in 158 ms on LAPTOP-CRNI3FFE (executor driver) (1/1)
+23/06/17 12:10:13 INFO TaskSchedulerImpl: Removed TaskSet 42.0, whose tasks have all completed, from pool 
+23/06/17 12:10:13 INFO DAGScheduler: ResultStage 42 (show at SparkAssignment3.scala:88) finished in 0.158 s
+23/06/17 12:10:13 INFO DAGScheduler: Job 29 is finished. Cancelling potential speculative or zombie tasks for this job
+23/06/17 12:10:13 INFO TaskSchedulerImpl: Killing all running tasks in stage 42: Stage finished
+23/06/17 12:10:13 INFO DAGScheduler: Job 29 finished: show at SparkAssignment3.scala:88, took 0.167306 s
++------------+------------+--------+---------+-------+-------+-------+----+-------+---+-----+--------+--------+-----+--------+--------+---+
+|         age|         job| marital|education|default|balance|housing|loan|contact|day|month|duration|campaign|pdays|previous|poutcome|  y|
++------------+------------+--------+---------+-------+-------+-------+----+-------+---+-----+--------+--------+-----+--------+--------+---+
+|Young_senior|  management| married| tertiary|     no|   2143|    yes|  no|unknown|  5|  may|     261|       1|   -1|       0| unknown| no|
+| Older_adult|  technician|  single|secondary|     no|     29|    yes|  no|unknown|  5|  may|     151|       1|   -1|       0| unknown| no|
+|       Adult|entrepreneur| married|secondary|     no|      2|    yes| yes|unknown|  5|  may|      76|       1|   -1|       0| unknown| no|
+| Older_adult| blue-collar| married|  unknown|     no|   1506|    yes|  no|unknown|  5|  may|      92|       1|   -1|       0| unknown| no|
+|       Adult|     unknown|  single|  unknown|     no|      1|     no|  no|unknown|  5|  may|     198|       1|   -1|       0| unknown| no|
+|       Adult|  management| married| tertiary|     no|    231|    yes|  no|unknown|  5|  may|     139|       1|   -1|       0| unknown| no|
+| Young_adult|  management|  single| tertiary|     no|    447|    yes| yes|unknown|  5|  may|     217|       1|   -1|       0| unknown| no|
+| Older_adult|entrepreneur|divorced| tertiary|    yes|      2|    yes|  no|unknown|  5|  may|     380|       1|   -1|       0| unknown| no|
+|Young_senior|     retired| married|  primary|     no|    121|    yes|  no|unknown|  5|  may|      50|       1|   -1|       0| unknown| no|
+| Older_adult|  technician|  single|secondary|     no|    593|    yes|  no|unknown|  5|  may|      55|       1|   -1|       0| unknown| no|
+| Older_adult|      admin.|divorced|secondary|     no|    270|    yes|  no|unknown|  5|  may|     222|       1|   -1|       0| unknown| no|
+| Young_adult|      admin.|  single|secondary|     no|    390|    yes|  no|unknown|  5|  may|     137|       1|   -1|       0| unknown| no|
+|Young_senior|  technician| married|secondary|     no|      6|    yes|  no|unknown|  5|  may|     517|       1|   -1|       0| unknown| no|
+|Young_senior|  technician| married|  unknown|     no|     71|    yes|  no|unknown|  5|  may|      71|       1|   -1|       0| unknown| no|
+|Young_senior|    services| married|secondary|     no|    162|    yes|  no|unknown|  5|  may|     174|       1|   -1|       0| unknown| no|
+|Young_senior|     retired| married|  primary|     no|    229|    yes|  no|unknown|  5|  may|     353|       1|   -1|       0| unknown| no|
+| Older_adult|      admin.|  single|  unknown|     no|     13|    yes|  no|unknown|  5|  may|      98|       1|   -1|       0| unknown| no|
+|Young_senior| blue-collar| married|  primary|     no|     52|    yes|  no|unknown|  5|  may|      38|       1|   -1|       0| unknown| no|
+|      Senior|     retired| married|  primary|     no|     60|    yes|  no|unknown|  5|  may|     219|       1|   -1|       0| unknown| no|
+|       Adult|    services| married|secondary|     no|      0|    yes|  no|unknown|  5|  may|      54|       1|   -1|       0| unknown| no|
++------------+------------+--------+---------+-------+-------+-------+----+-------+---+-----+--------+--------+-----+--------+--------+---+
+only showing top 20 rows
+
+23/06/17 12:10:13 INFO SparkContext: Invoking stop() from shutdown hook
+23/06/17 12:10:13 INFO SparkUI: Stopped Spark web UI at http://LAPTOP-CRNI3FFE:4040
+23/06/17 12:10:13 INFO MapOutputTrackerMasterEndpoint: MapOutputTrackerMasterEndpoint stopped!
+23/06/17 12:10:13 INFO MemoryStore: MemoryStore cleared
+23/06/17 12:10:13 INFO BlockManager: BlockManager stopped
+23/06/17 12:10:13 INFO BlockManagerMaster: BlockManagerMaster stopped
+23/06/17 12:10:13 INFO OutputCommitCoordinator$OutputCommitCoordinatorEndpoint: OutputCommitCoordinator stopped!
+23/06/17 12:10:13 INFO SparkContext: Successfully stopped SparkContext
+23/06/17 12:10:13 INFO ShutdownHookManager: Shutdown hook called
+23/06/17 12:10:13 INFO ShutdownHookManager: Deleting directory C:\Users\Kranthi Chowdary\AppData\Local\Temp\spark-8c1dcfc9-8760-4a45-b860-b2339ddcfada
+
+Process finished with exit code 0
